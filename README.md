@@ -7,7 +7,7 @@ An end-to-end data analytics project exploring pricing, range, charging performa
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-**🔗 [Live Dashboard](#)** ← **
+**🔗 [Live Dashboard](#)** ← * https://electric-vehicle-market-analysis-cq7jvrvwbdhpaaaib99pru.streamlit.app/ *
 
 ---
 

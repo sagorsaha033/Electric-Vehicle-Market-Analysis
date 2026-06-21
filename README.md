@@ -2,12 +2,12 @@
 
 An end-to-end data analytics project exploring pricing, range, charging performance, and brand positioning across 360 electric vehicle models — from raw data cleaning through statistical analysis to an interactive Streamlit dashboard.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.11.0-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.2-150458?logo=pandas)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-**🔗 [Live Dashboard](#)** ← *replace this with your Streamlit Community Cloud URL*
+**🔗 [Live Dashboard](#)** ← **
 
 ---
 
@@ -16,7 +16,7 @@ An end-to-end data analytics project exploring pricing, range, charging performa
 This project analyzes specifications for 360 electric vehicle models to answer a core business question:
 **what actually drives EV pricing, and which vehicles offer the best value to consumers?**
 
-The analysis covers data cleaning, feature engineering, exploratory data analysis, correlation and statistical significance testing, a multiple regression with a multicollinearity check, and a 6-page interactive Streamlit dashboard — following the same workflow used in a real analyst role: raw data → cleaned data → insight → stakeholder-ready deliverable.
+The analysis covers data cleaning, feature engineering, exploratory data analysis, correlation and statistical significance testing, a multiple regression with a multicollinearity check, and a 5-page interactive Streamlit dashboard — following the same workflow used in a real analyst role: raw data → cleaned data → insight → stakeholder-ready deliverable.
 
 **📓 [View the Full Analysis Notebook](notebooks/EV_Market_Analysis.ipynb)**
 **📄 [Read the Business Insights Summary](reports/Business_Insights_Summary.md)**
@@ -151,5 +151,3 @@ The app opens automatically at `http://localhost:8501`, with sidebar navigation 
 ## 🧑‍💻 About This Project
 
 Built as a portfolio project to demonstrate end-to-end data analyst skills: data cleaning, statistical reasoning, regression diagnostics, visualization, business communication, and interactive dashboard development.
-
-**Author:** [Your Name] · [LinkedIn] · [Portfolio Site]

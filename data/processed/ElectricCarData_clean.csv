@@ -1,0 +1,361 @@
+Battery,Car_name,Car_name_link,Efficiency,Fast_charge,Price.DE.,Range,Top_speed,acceleration..0.100.,HasFastCharge,Brand,Price_per_Km_Range,Price_per_TopSpeed,ChargingTier,EfficiencyCategory,PriceTier,PerformanceScore
+75.0,Tesla Model Y Long Range Dual Motor,https://ev-database.org/car/1619/Tesla-Model-Y-Long-Range-Dual-Motor,172,670.0,59017.0,435,217,5.0,True,Tesla,135.6712643678161,271.96774193548384,Fast,Moderately Efficient,Premium,65.1
+57.5,Tesla Model 3,https://ev-database.org/car/1991/Tesla-Model-3,137,700.0,46220.0,420,201,6.1,True,Tesla,110.04761904761905,229.9502487562189,Fast,Highly Efficient,Budget,57.7
+60.5,BYD ATTO 3,https://ev-database.org/car/1782/BYD-ATTO-3,183,370.0,44625.0,330,160,7.3,True,Byd,135.22727272727272,278.90625,Moderate,Moderately Efficient,Budget,43.7
+61.7,MG MG4 Electric 64 kWh,https://ev-database.org/car/1708/MG-MG4-Electric-64-kWh,171,630.0,39990.0,360,160,7.9,True,Mg,111.08333333333333,249.9375,Fast,Moderately Efficient,Budget,41.9
+75.0,Tesla Model 3 Long Range Dual Motor,https://ev-database.org/car/1992/Tesla-Model-3-Long-Range-Dual-Motor,149,780.0,55220.0,505,201,4.4,True,Tesla,109.34653465346534,274.72636815920396,Fast,Highly Efficient,Mid-Range,62.7
+57.5,Tesla Model Y,https://ev-database.org/car/1743/Tesla-Model-Y,164,580.0,47567.0,350,217,6.9,True,Tesla,135.90571428571428,219.20276497695852,Moderate,Moderately Efficient,Mid-Range,59.5
+71.0,BMW iX xDrive40,https://ev-database.org/car/1472/BMW-iX-xDrive40,197,480.0,77300.0,360,200,6.1,True,Bmw,214.72222222222223,386.5,Moderate,Moderately Efficient,Luxury,57.5
+64.0,Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,173,550.0,41790.0,370,180,5.3,True,Volvo,112.94594594594595,232.16666666666666,Moderate,Moderately Efficient,Budget,54.7
+44.0,Citroen e-C3,https://ev-database.org/car/2039/Citroen-e-C3,176,320.0,23300.0,250,135,11.0,True,Citroen,93.2,172.59259259259258,Moderate,Moderately Efficient,Budget,26.4
+82.5,BYD SEAL 82.5 kWh AWD Excellence,https://ev-database.org/car/2002/BYD-SEAL-825-kWh-AWD-Excellence,170,530.0,53668.0,485,180,3.8,True,Byd,110.65567010309279,298.15555555555557,Moderate,Moderately Efficient,Mid-Range,59.1
+80.7,BMW i4 eDrive40,https://ev-database.org/car/1252/BMW-i4-eDrive40,157,800.0,59200.0,515,190,5.7,True,Bmw,114.95145631067962,311.57894736842104,Fast,Moderately Efficient,Premium,56.1
+60.0,Renault Megane E-Tech EV60 220hp,https://ev-database.org/car/1521/Renault-Megane-E-Tech-EV60-220hp,158,530.0,46600.0,380,160,7.4,True,Renault,122.63157894736842,291.25,Moderate,Moderately Efficient,Budget,43.4
+64.7,BMW iX1 xDrive30,https://ev-database.org/car/1701/BMW-iX1-xDrive30,170,550.0,55000.0,380,180,5.6,True,Bmw,144.73684210526315,305.55555555555554,Moderate,Moderately Efficient,Mid-Range,53.8
+64.0,Hyundai Kona Electric 64 kWh,https://ev-database.org/car/1423/Hyundai-Kona-Electric-64-kWh,164,370.0,42900.0,390,167,7.9,True,Hyundai,110.0,256.8862275449102,Moderate,Moderately Efficient,Budget,43.7
+75.0,Tesla Model Y Performance,https://ev-database.org/car/1183/Tesla-Model-Y-Performance,181,640.0,63667.0,415,250,3.7,True,Tesla,153.4144578313253,254.668,Fast,Moderately Efficient,Premium,77.3
+64.8,Kia Niro EV,https://ev-database.org/car/1666/Kia-Niro-EV,168,390.0,45690.0,385,167,7.8,True,Kia,118.67532467532467,273.5928143712575,Moderate,Moderately Efficient,Budget,44.0
+100.0,Rolls-Royce Spectre,https://ev-database.org/car/1765/Rolls-Royce-Spectre,220,540.0,56942.0,455,250,4.5,True,Rolls-Royce,125.14725274725275,227.768,Moderate,Less Efficient,Mid-Range,75.0
+95.0,Tesla Model S Plaid,https://ev-database.org/car/1405/Tesla-Model-S-Plaid,170,780.0,110970.0,560,282,2.1,True,Tesla,198.16071428571428,393.51063829787233,Fast,Moderately Efficient,Luxury,90.3
+74.0,BMW iX3,https://ev-database.org/car/1535/BMW-iX3,192,520.0,67300.0,385,180,6.8,True,Bmw,174.80519480519482,373.8888888888889,Moderate,Moderately Efficient,Premium,50.3
+90.0,Hongqi E-HS9 99 kWh,https://ev-database.org/car/1747/Hongqi-E-HS9-99-kWh,243,430.0,56942.0,370,200,4.9,True,Hongqi,153.89729729729729,284.71,Moderate,Less Efficient,Mid-Range,61.0
+37.3,Fiat 500e Hatchback 42 kWh,https://ev-database.org/car/1285/Fiat-500e-Hatchback-42-kWh,159,390.0,34990.0,235,150,9.0,True,Fiat,148.89361702127658,233.26666666666668,Moderate,Moderately Efficient,Budget,36.1
+85.4,BYD HAN,https://ev-database.org/car/1784/BYD-HAN,180,450.0,70805.0,475,180,3.9,True,Byd,149.06315789473683,393.3611111111111,Moderate,Moderately Efficient,Luxury,58.8
+95.0,Tesla Model S Dual Motor,https://ev-database.org/car/1404/Tesla-Model-S-Dual-Motor,165,800.0,95970.0,575,250,3.2,True,Tesla,166.90434782608696,383.88,Fast,Moderately Efficient,Luxury,78.8
+60.5,BYD DOLPHIN 60.4 kWh,https://ev-database.org/car/1919/BYD-DOLPHIN-604-kWh,178,340.0,35990.0,340,160,7.0,True,Byd,105.8529411764706,224.9375,Moderate,Moderately Efficient,Budget,44.6
+58.0,CUPRA Born 150 kW - 58 kWh,https://ev-database.org/car/1516/CUPRA-Born-150-kW---58-kWh,166,470.0,39370.0,350,160,7.3,True,Cupra,112.48571428571428,246.0625,Moderate,Moderately Efficient,Budget,43.7
+25.0,Dacia Spring Electric 45,https://ev-database.org/car/1705/Dacia-Spring-Electric-45,152,180.0,22550.0,165,125,19.1,True,Dacia,136.66666666666666,180.4,Slow,Moderately Efficient,Budget,0.0
+81.2,BMW i5 eDrive40 Sedan,https://ev-database.org/car/1906/BMW-i5-eDrive40-Sedan,171,710.0,70200.0,475,193,6.0,True,Bmw,147.78947368421052,363.73056994818654,Fast,Moderately Efficient,Luxury,56.0
+80.7,BMW i4 M50,https://ev-database.org/car/1519/BMW-i4-M50,179,700.0,70800.0,450,225,3.9,True,Bmw,157.33333333333334,314.6666666666667,Fast,Moderately Efficient,Luxury,70.3
+50.8,Opel Astra Electric,https://ev-database.org/car/1792/Opel-Astra-Electric,167,490.0,41990.0,305,170,9.2,True,Opel,137.672131147541,247.0,Moderate,Moderately Efficient,Budget,40.7
+68.3,MG ZS EV Long Range,https://ev-database.org/car/1541/MG-ZS-EV-Long-Range,185,420.0,37990.0,370,175,8.4,True,Mg,102.67567567567568,217.0857142857143,Moderate,Moderately Efficient,Budget,44.3
+76.6,Audi Q4 e-tron 40,https://ev-database.org/car/1490/Audi-Q4-e-tron-40,189,630.0,56942.0,405,160,8.5,True,Audi,140.59753086419752,355.8875,Fast,Moderately Efficient,Mid-Range,40.2
+101.7,BMW i7 xDrive60,https://ev-database.org/car/1676/BMW-i7-xDrive60,199,760.0,139900.0,510,240,4.7,True,Bmw,274.3137254901961,582.9166666666666,Fast,Moderately Efficient,Luxury,71.8
+64.0,Toyota bZ4X FWD,https://ev-database.org/car/1564/Toyota-bZ4X-FWD,188,510.0,47490.0,340,160,7.5,True,Toyota,139.6764705882353,296.8125,Moderate,Moderately Efficient,Mid-Range,43.1
+49.0,Volvo EX30 Single Motor,https://ev-database.org/car/1909/Volvo-EX30-Single-Motor,175,430.0,36590.0,280,180,5.7,True,Volvo,130.67857142857142,203.27777777777777,Moderate,Moderately Efficient,Budget,53.5
+62.0,Smart #1,https://ev-database.org/car/1667/Smart-1,185,520.0,42490.0,335,180,6.7,True,Smart,126.83582089552239,236.05555555555554,Moderate,Moderately Efficient,Budget,50.6
+74.0,Kia EV6 Long Range 2WD,https://ev-database.org/car/1481/Kia-EV6-Long-Range-2WD,180,1070.0,51990.0,410,185,7.3,True,Kia,126.8048780487805,281.02702702702703,Fast,Moderately Efficient,Mid-Range,50.1
+77.0,Volkswagen ID.7 Pro,https://ev-database.org/car/1839/Volkswagen-ID7-Pro,162,710.0,56995.0,475,180,6.5,True,Volkswagen,119.98947368421052,316.6388888888889,Fast,Moderately Efficient,Premium,51.2
+105.2,BMW iX xDrive50,https://ev-database.org/car/1473/BMW-iX-xDrive50,208,680.0,100100.0,505,200,4.6,True,Bmw,198.21782178217822,500.5,Fast,Less Efficient,Luxury,61.9
+106.0,Audi Q8 e-tron 55 quattro,https://ev-database.org/car/1770/Audi-Q8-e-tron-55-quattro,210,640.0,85300.0,505,200,5.6,True,Audi,168.9108910891089,426.5,Fast,Less Efficient,Luxury,58.9
+50.8,MG MG4 Electric 51 kWh,https://ev-database.org/car/1707/MG-MG4-Electric-51-kWh,169,390.0,34990.0,300,160,7.7,True,Mg,116.63333333333334,218.6875,Moderate,Moderately Efficient,Budget,42.5
+73.0,Peugeot e-3008 73 kWh,https://ev-database.org/car/2003/Peugeot-e-3008-73-kWh,183,460.0,56942.0,400,180,7.0,True,Peugeot,142.355,316.34444444444443,Moderate,Moderately Efficient,Mid-Range,49.7
+82.5,BYD SEAL 82.5 kWh RWD Design,https://ev-database.org/car/2001/BYD-SEAL-825-kWh-RWD-Design,165,550.0,47578.0,500,180,5.9,True,Byd,95.156,264.3222222222222,Moderate,Moderately Efficient,Mid-Range,52.9
+77.0,Skoda Enyaq 85,https://ev-database.org/car/2020/Skoda-Enyaq-85,169,680.0,48900.0,455,180,6.7,True,Skoda,107.47252747252747,271.6666666666667,Fast,Moderately Efficient,Mid-Range,50.6
+65.4,Hyundai Kona Electric 65 kWh,https://ev-database.org/car/1830/Hyundai-Kona-Electric-65-kWh,168,400.0,47190.0,390,170,8.8,True,Hyundai,121.0,277.5882352941176,Moderate,Moderately Efficient,Mid-Range,41.8
+58.0,Volkswagen ID.3 Pro,https://ev-database.org/car/1831/Volkswagen-ID3-Pro,166,450.0,39995.0,350,160,7.3,True,Volkswagen,114.27142857142857,249.96875,Moderate,Moderately Efficient,Budget,43.7
+52.0,Renault Zoe ZE50 R110,https://ev-database.org/car/1164/Renault-Zoe-ZE50-R110,165,230.0,36840.0,315,135,11.4,True,Renault,116.95238095238095,272.8888888888889,Slow,Moderately Efficient,Budget,25.2
+96.0,Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,226,740.0,76490.0,425,200,6.0,True,Kia,179.9764705882353,382.45,Fast,Less Efficient,Luxury,57.8
+46.3,Peugeot e-208,https://ev-database.org/car/1583/Peugeot-e-208,162,460.0,39100.0,285,150,8.1,True,Peugeot,137.19298245614036,260.6666666666667,Moderate,Moderately Efficient,Budget,38.8
+85.0,Audi e-tron GT RS,https://ev-database.org/car/1153/Audi-e-tron-GT-RS,210,1000.0,146050.0,405,250,3.3,True,Audi,360.61728395061726,584.2,Fast,Less Efficient,Luxury,78.5
+21.3,Renault Twingo Electric,https://ev-database.org/car/1270/Renault-Twingo-Electric,158,520.0,28000.0,135,135,12.6,False,Renault,207.40740740740742,207.40740740740742,Moderate,Moderately Efficient,Budget,21.7
+77.0,CUPRA Born 170 kW - 77 kWh,https://ev-database.org/car/1518/CUPRA-Born-170-kW---77-kWh,171,630.0,46450.0,450,160,7.0,True,Cupra,103.22222222222223,290.3125,Fast,Moderately Efficient,Budget,44.6
+86.4,BYD TANG,https://ev-database.org/car/1783/BYD-TANG,240,330.0,71400.0,360,180,4.6,True,Byd,198.33333333333334,396.6666666666667,Moderate,Less Efficient,Luxury,56.7
+28.9,Mini Cooper SE,https://ev-database.org/car/1409/Mini-Cooper-SE,161,260.0,35700.0,180,150,7.3,True,Mini,198.33333333333334,238.0,Slow,Moderately Efficient,Budget,41.1
+67.0,BMW i4 eDrive35,https://ev-database.org/car/1785/BMW-i4-eDrive35,156,580.0,56500.0,430,190,6.0,True,Bmw,131.3953488372093,297.36842105263156,Moderate,Moderately Efficient,Mid-Range,55.2
+74.0,Hyundai IONIQ 6 Long Range AWD,https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD,168,1150.0,61100.0,440,185,5.1,True,Hyundai,138.86363636363637,330.27027027027026,Fast,Moderately Efficient,Premium,56.6
+74.0,Kia EV6 GT,https://ev-database.org/car/1471/Kia-EV6-GT,206,940.0,72990.0,360,260,3.5,True,Kia,202.75,280.7307692307692,Fast,Less Efficient,Luxury,80.5
+74.0,Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,149,1290.0,54000.0,495,185,7.4,True,Hyundai,109.0909090909091,291.8918918918919,Fast,Highly Efficient,Mid-Range,49.8
+50.8,Jeep Avenger Electric,https://ev-database.org/car/1816/Jeep-Avenger-Electric,164,500.0,37000.0,310,150,9.0,True,Jeep,119.35483870967742,246.66666666666666,Moderate,Moderately Efficient,Budget,36.1
+87.0,Nissan Ariya 87kWh,https://ev-database.org/car/1302/Nissan-Ariya-87kWh,193,540.0,58990.0,450,160,7.6,True,Nissan,131.0888888888889,368.6875,Moderate,Moderately Efficient,Premium,42.8
+39.0,Nissan Leaf,https://ev-database.org/car/1656/Nissan-Leaf,166,230.0,33400.0,235,144,7.9,True,Nissan,142.12765957446808,231.94444444444446,Slow,Moderately Efficient,Budget,37.8
+77.0,Volkswagen ID. Buzz Pro,https://ev-database.org/car/1651/Volkswagen-ID-Buzz-Pro,223,480.0,64581.0,345,145,10.2,True,Volkswagen,187.19130434782608,445.3862068965517,Moderate,Less Efficient,Premium,31.3
+70.5,Mercedes EQA 250+,https://ev-database.org/car/1698/Mercedes-EQA-250plus,168,580.0,56942.0,420,160,8.6,True,Mercedes,135.57619047619048,355.8875,Moderate,Moderately Efficient,Mid-Range,39.9
+77.0,Volkswagen ID.4 Pro,https://ev-database.org/car/2028/Volkswagen-ID4-Pro,177,650.0,46335.0,435,180,6.7,True,Volkswagen,106.51724137931035,257.4166666666667,Fast,Moderately Efficient,Budget,50.6
+46.3,Opel Corsa-e,https://ev-database.org/car/1585/Opel-Corsa-e,157,470.0,56942.0,295,150,8.1,True,Opel,193.02372881355933,379.61333333333334,Moderate,Moderately Efficient,Mid-Range,38.8
+94.0,Zeekr 001 Performance AWD,https://ev-database.org/car/1934/Zeekr-001-Performance-AWD,186,700.0,63970.0,505,200,3.8,True,Zeekr,126.67326732673267,319.85,Fast,Moderately Efficient,Premium,64.2
+46.3,Citroen e-C4,https://ev-database.org/car/1587/Citroen-e-C4,160,460.0,36040.0,290,150,9.7,True,Citroen,124.27586206896552,240.26666666666668,Moderate,Moderately Efficient,Budget,34.1
+94.0,Polestar 4 Long Range Dual Motor,https://ev-database.org/car/1842/Polestar-4-Long-Range-Dual-Motor,202,690.0,56942.0,465,200,3.8,True,Polestar,122.45591397849462,284.71,Fast,Less Efficient,Mid-Range,64.2
+118.0,Lucid Air Dream Edition R,https://ev-database.org/car/1696/Lucid-Air-Dream-Edition-R,172,870.0,218000.0,685,270,2.9,True,Lucid,318.24817518248176,807.4074074074074,Fast,Moderately Efficient,Luxury,84.8
+74.4,MG MG4 Electric 77 kWh,https://ev-database.org/car/1973/MG-MG4-Electric-77-kWh,175,430.0,45990.0,425,180,6.5,True,Mg,108.21176470588236,255.5,Moderate,Moderately Efficient,Budget,51.2
+98.0,Peugeot e-3008 98 kWh Long Range,https://ev-database.org/car/2005/Peugeot-e-3008-98-kWh-Long-Range,188,680.0,56942.0,520,180,7.0,True,Peugeot,109.50384615384615,316.34444444444443,Fast,Moderately Efficient,Mid-Range,49.7
+80.0,Hyundai IONIQ 5 N,https://ev-database.org/car/2044/Hyundai-IONIQ-5-N,208,950.0,56942.0,385,260,3.4,True,Hyundai,147.9012987012987,219.0076923076923,Fast,Less Efficient,Mid-Range,80.8
+74.0,Hyundai IONIQ 5 Long Range 2WD,https://ev-database.org/car/1662/Hyundai-IONIQ-5-Long-Range-2WD,190,1020.0,47900.0,390,185,7.3,True,Hyundai,122.82051282051282,258.9189189189189,Fast,Moderately Efficient,Mid-Range,50.1
+57.5,Tesla Model Y,https://ev-database.org/car/1974/Tesla-Model-Y,164,810.0,47567.0,350,217,6.9,True,Tesla,135.90571428571428,219.20276497695852,Fast,Moderately Efficient,Mid-Range,59.5
+61.9,Honda e:Ny1,https://ev-database.org/car/1940/Honda-eNy1,185,300.0,47590.0,335,160,7.6,True,Honda,142.0597014925373,297.4375,Moderate,Moderately Efficient,Mid-Range,42.8
+44.9,BYD DOLPHIN 44.9 kWh Active,https://ev-database.org/car/1917/BYD-DOLPHIN-449-kWh-Active,176,260.0,29990.0,255,150,10.0,True,Byd,117.6078431372549,199.93333333333334,Slow,Moderately Efficient,Budget,33.2
+109.0,Lotus Eletre,https://ev-database.org/car/1767/Lotus-Eletre,220,1040.0,95990.0,495,250,4.5,True,Lotus,193.91919191919192,383.96,Fast,Less Efficient,Luxury,75.0
+79.0,Polestar 2 Long Range Single Motor,https://ev-database.org/car/1818/Polestar-2-Long-Range-Single-Motor,168,700.0,54475.0,470,205,6.2,True,Polestar,115.90425531914893,265.7317073170732,Fast,Moderately Efficient,Mid-Range,58.5
+64.0,Volvo EX30 Twin Motor Performance,https://ev-database.org/car/1911/Volvo-EX30-Twin-Motor-Performance,178,540.0,48490.0,360,180,3.6,True,Volvo,134.69444444444446,269.3888888888889,Moderate,Moderately Efficient,Mid-Range,59.7
+64.7,BMW iX1 eDrive20,https://ev-database.org/car/1996/BMW-iX1-eDrive20,166,560.0,47900.0,390,170,8.3,True,Bmw,122.82051282051282,281.7647058823529,Moderate,Moderately Efficient,Mid-Range,43.3
+54.0,Hyundai IONIQ 6 Standard Range 2WD,https://ev-database.org/car/1717/Hyundai-IONIQ-6-Standard-Range-2WD,148,900.0,43900.0,365,185,8.8,True,Hyundai,120.27397260273973,237.2972972972973,Fast,Highly Efficient,Budget,45.7
+86.0,Volkswagen ID.7 Pro S,https://ev-database.org/car/1840/Volkswagen-ID7-Pro-S,165,800.0,56942.0,520,180,7.0,True,Volkswagen,109.50384615384615,316.34444444444443,Fast,Moderately Efficient,Mid-Range,49.7
+46.3,Opel Mokka-e,https://ev-database.org/car/1586/Opel-Mokka-e,178,420.0,40650.0,260,150,9.2,True,Opel,156.34615384615384,271.0,Moderate,Moderately Efficient,Budget,35.5
+66.5,Mercedes EQB 350 4MATIC,https://ev-database.org/car/1493/Mercedes-EQB-350-4MATIC,196,490.0,56942.0,340,160,6.2,True,Mercedes,167.4764705882353,355.8875,Moderate,Moderately Efficient,Mid-Range,46.9
+61.7,MG MG4 Electric XPOWER,https://ev-database.org/car/1944/MG-MG4-Electric-XPOWER,193,560.0,46990.0,320,200,3.8,True,Mg,146.84375,234.95,Moderate,Moderately Efficient,Budget,64.2
+62.0,Smart #1 Brabus,https://ev-database.org/car/1748/Smart-1-Brabus,197,490.0,48990.0,315,180,3.9,True,Smart,155.52380952380952,272.1666666666667,Moderate,Moderately Efficient,Mid-Range,58.8
+64.0,Subaru Solterra AWD,https://ev-database.org/car/1567/Subaru-Solterra-AWD,200,480.0,57490.0,320,160,6.9,True,Subaru,179.65625,359.3125,Moderate,Moderately Efficient,Premium,44.9
+108.4,Mercedes EQS 450+,https://ev-database.org/car/2008/Mercedes-EQS-450plus,171,950.0,109551.0,635,210,6.1,True,Mercedes,172.5212598425197,521.6714285714286,Fast,Moderately Efficient,Luxury,60.0
+106.5,Fisker Ocean One,https://ev-database.org/car/1712/Fisker-Ocean-One,201,630.0,69950.0,530,205,3.9,True,Fisker,131.9811320754717,341.219512195122,Fast,Less Efficient,Premium,65.2
+79.0,Volvo XC40 Recharge Single Motor ER,https://ev-database.org/car/1797/Volvo-XC40-Recharge-Single-Motor-ER,195,600.0,53000.0,405,180,7.3,True,Volvo,130.8641975308642,294.44444444444446,Fast,Moderately Efficient,Mid-Range,48.8
+94.0,Zeekr 001 Long Range RWD,https://ev-database.org/car/1933/Zeekr-001-Long-Range-RWD,177,740.0,60970.0,530,200,7.2,True,Zeekr,115.0377358490566,304.85,Fast,Moderately Efficient,Premium,54.2
+77.0,Skoda Enyaq Coupe 85,https://ev-database.org/car/2024/Skoda-Enyaq-Coupe-85,159,720.0,51150.0,485,180,6.7,True,Skoda,105.4639175257732,284.1666666666667,Fast,Moderately Efficient,Mid-Range,50.6
+81.2,BMW i5 M60 xDrive Sedan,https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan,191,630.0,99500.0,425,230,3.8,True,Bmw,234.11764705882354,432.60869565217394,Fast,Moderately Efficient,Luxury,71.9
+85.0,Audi e-tron GT quattro,https://ev-database.org/car/1420/Audi-e-tron-GT-quattro,202,1030.0,106050.0,420,245,4.1,True,Audi,252.5,432.85714285714283,Fast,Less Efficient,Luxury,74.9
+74.0,Kia EV6 Long Range AWD,https://ev-database.org/car/1482/Kia-EV6-Long-Range-AWD,185,1050.0,55980.0,400,185,5.2,True,Kia,139.95,302.5945945945946,Fast,Moderately Efficient,Mid-Range,56.3
+57.4,MG MG5 Electric Long Range,https://ev-database.org/car/1474/MG-MG5-Electric-Long-Range,171,330.0,38490.0,335,185,7.7,True,Mg,114.8955223880597,208.05405405405406,Moderate,Moderately Efficient,Budget,48.9
+30.0,Mazda MX-30,https://ev-database.org/car/1680/Mazda-MX-30,176,210.0,35990.0,170,140,9.7,True,Mazda,211.7058823529412,257.07142857142856,Slow,Moderately Efficient,Budget,31.5
+94.0,Polestar 4 Long Range Single Motor,https://ev-database.org/car/1841/Polestar-4-Long-Range-Single-Motor,190,740.0,56942.0,495,180,7.4,True,Polestar,115.03434343434344,316.34444444444443,Fast,Moderately Efficient,Mid-Range,48.5
+84.0,Maxus MIFA 9,https://ev-database.org/car/1837/Maxus-MIFA-9,230,330.0,68990.0,365,180,9.2,True,Maxus,189.013698630137,383.27777777777777,Moderate,Less Efficient,Premium,43.2
+39.2,Hyundai Kona Electric 39 kWh,https://ev-database.org/car/1422/Hyundai-Kona-Electric-39-kWh,160,210.0,36400.0,245,155,9.9,True,Hyundai,148.57142857142858,234.83870967741936,Slow,Moderately Efficient,Budget,34.8
+106.5,Fisker Ocean Ultra,https://ev-database.org/car/1710/Fisker-Ocean-Ultra,199,640.0,57000.0,535,200,4.2,True,Fisker,106.54205607476635,285.0,Fast,Moderately Efficient,Premium,63.1
+52.0,Renault Zoe ZE50 R135,https://ev-database.org/car/1205/Renault-Zoe-ZE50-R135,168,230.0,37840.0,310,140,9.5,True,Renault,122.06451612903226,270.2857142857143,Slow,Moderately Efficient,Budget,32.1
+96.0,Kia EV9 99.8 kWh RWD,https://ev-database.org/car/1834/Kia-EV9-998-kWh-RWD,213,780.0,72490.0,450,185,9.4,True,Kia,161.0888888888889,391.8378378378378,Fast,Less Efficient,Luxury,43.9
+64.0,Lexus RZ 450e,https://ev-database.org/car/1677/Lexus-RZ-450e,200,480.0,68000.0,320,160,5.6,True,Lexus,212.5,425.0,Moderate,Moderately Efficient,Premium,48.7
+95.0,Tesla Model X Dual Motor,https://ev-database.org/car/1407/Tesla-Model-X-Dual-Motor,200,660.0,100970.0,475,250,3.9,True,Tesla,212.56842105263158,403.88,Fast,Moderately Efficient,Luxury,76.8
+70.5,Mercedes EQB 250+,https://ev-database.org/car/1988/Mercedes-EQB-250plus,170,560.0,53514.0,415,160,8.9,True,Mercedes,128.94939759036146,334.4625,Moderate,Moderately Efficient,Mid-Range,39.0
+74.0,Hyundai IONIQ 5 Long Range AWD,https://ev-database.org/car/1663/Hyundai-IONIQ-5-Long-Range-AWD,192,1010.0,59200.0,385,185,5.1,True,Hyundai,153.76623376623377,320.0,Fast,Moderately Efficient,Premium,56.6
+50.8,Peugeot e-308,https://ev-database.org/car/1744/Peugeot-e-308,169,450.0,44765.0,300,170,9.8,True,Peugeot,149.21666666666667,263.3235294117647,Moderate,Moderately Efficient,Budget,38.9
+95.0,Tesla Model X Plaid,https://ev-database.org/car/1408/Tesla-Model-X-Plaid,209,630.0,115970.0,455,262,2.6,True,Tesla,254.87912087912088,442.63358778625957,Fast,Less Efficient,Luxury,83.7
+79.0,Volvo XC40 Recharge Twin Motor,https://ev-database.org/car/1798/Volvo-XC40-Recharge-Twin-Motor,203,580.0,59950.0,390,180,4.8,True,Volvo,153.71794871794873,333.05555555555554,Moderate,Less Efficient,Premium,56.2
+54.0,Hyundai IONIQ 5 Standard Range 2WD,https://ev-database.org/car/1476/Hyundai-IONIQ-5-Standard-Range-2WD,183,720.0,43900.0,295,185,8.5,True,Hyundai,148.8135593220339,237.2972972972973,Fast,Moderately Efficient,Budget,46.6
+77.0,Volkswagen ID.5 Pro,https://ev-database.org/car/2031/Volkswagen-ID5-Pro,169,680.0,48970.0,455,180,6.7,True,Volkswagen,107.62637362637362,272.05555555555554,Fast,Moderately Efficient,Mid-Range,50.6
+66.5,Mercedes EQB 300 4MATIC,https://ev-database.org/car/1559/Mercedes-EQB-300-4MATIC,196,490.0,56942.0,340,160,8.0,True,Mercedes,167.4764705882353,355.8875,Moderate,Moderately Efficient,Mid-Range,41.6
+106.0,Audi Q8 e-tron Sportback 55 quattro,https://ev-database.org/car/1772/Audi-Q8-e-tron-Sportback-55-quattro,202,660.0,87550.0,525,200,5.6,True,Audi,166.76190476190476,437.75,Fast,Less Efficient,Luxury,58.9
+64.7,BMW iX2 xDrive30,https://ev-database.org/car/2040/BMW-iX2-xDrive30,170,550.0,56500.0,380,180,5.6,True,Bmw,148.68421052631578,313.8888888888889,Moderate,Moderately Efficient,Mid-Range,53.8
+77.0,Audi Q4 e-tron 45,https://ev-database.org/car/2013/Audi-Q4-e-tron-45,183,630.0,52950.0,420,180,6.7,True,Audi,126.07142857142857,294.1666666666667,Fast,Moderately Efficient,Mid-Range,50.6
+64.0,Zeekr X Privilege AWD,https://ev-database.org/car/1937/Zeekr-X-Privilege-AWD,183,520.0,50470.0,350,180,3.8,True,Zeekr,144.2,280.3888888888889,Moderate,Moderately Efficient,Mid-Range,59.1
+105.2,BMW iX M60,https://ev-database.org/car/1590/BMW-iX-M60,217,650.0,136100.0,485,250,3.8,True,Bmw,280.6185567010309,544.4,Fast,Less Efficient,Luxury,77.1
+50.8,Fiat 600e,https://ev-database.org/car/1945/Fiat-600e,167,490.0,36490.0,305,150,9.0,True,Fiat,119.63934426229508,243.26666666666668,Moderate,Moderately Efficient,Budget,36.1
+62.0,Smart #3,https://ev-database.org/car/1999/Smart-3,175,550.0,43490.0,355,180,6.7,True,Smart,122.50704225352112,241.61111111111111,Moderate,Moderately Efficient,Budget,50.6
+70.0,MG Marvel R,https://ev-database.org/car/1524/MG-Marvel-R,192,400.0,46990.0,365,200,7.9,True,Mg,128.73972602739727,234.95,Moderate,Moderately Efficient,Budget,52.2
+59.0,Nissan Leaf e+,https://ev-database.org/car/1657/Nissan-Leaf-eplus,174,240.0,41100.0,340,157,6.9,True,Nissan,120.88235294117646,261.78343949044586,Slow,Moderately Efficient,Budget,44.1
+79.0,Polestar 2 Long Range Dual Motor,https://ev-database.org/car/1819/Polestar-2-Long-Range-Dual-Motor,176,670.0,58775.0,450,205,4.5,True,Polestar,130.61111111111111,286.7073170731707,Fast,Moderately Efficient,Premium,63.5
+25.0,Dacia Spring Electric 65 Extreme,https://ev-database.org/car/1813/Dacia-Spring-Electric-65-Extreme,156,170.0,24550.0,160,125,13.7,True,Dacia,153.4375,196.4,Slow,Moderately Efficient,Budget,15.9
+90.6,Mercedes EQE 350+,https://ev-database.org/car/2006/Mercedes-EQE-350plus,171,790.0,56942.0,530,210,6.4,True,Mercedes,107.43773584905661,271.15238095238095,Fast,Moderately Efficient,Mid-Range,59.1
+77.0,Volkswagen ID.3 Pro S - 4 Seats,https://ev-database.org/car/1832/Volkswagen-ID3-Pro-S---4-Seats,169,680.0,47595.0,455,160,7.9,True,Volkswagen,104.6043956043956,297.46875,Fast,Moderately Efficient,Mid-Range,41.9
+108.4,Mercedes EQS SUV 580 4MATIC,https://ev-database.org/car/1675/Mercedes-EQS-SUV-580-4MATIC,224,720.0,135434.0,485,210,4.6,True,Mercedes,279.24536082474225,644.9238095238095,Fast,Less Efficient,Luxury,64.4
+96.0,Kia EV9 99.8 kWh AWD GT-Line,https://ev-database.org/car/1993/Kia-EV9-998-kWh-AWD-GT-Line,231,720.0,82380.0,415,200,5.3,True,Kia,198.50602409638554,411.9,Fast,Less Efficient,Luxury,59.8
+60.0,Renault Megane E-Tech EV60 130hp,https://ev-database.org/car/1588/Renault-Megane-E-Tech-EV60-130hp,158,530.0,47000.0,380,150,10.5,True,Renault,123.6842105263158,313.3333333333333,Moderate,Moderately Efficient,Mid-Range,31.7
+58.0,Skoda Enyaq 60,https://ev-database.org/car/2019/Skoda-Enyaq-60,171,460.0,44200.0,340,160,8.7,True,Skoda,130.0,276.25,Moderate,Moderately Efficient,Budget,39.6
+46.3,Citroen e-C4 X,https://ev-database.org/car/1706/Citroen-e-C4-X,162,460.0,37540.0,285,150,9.7,True,Citroen,131.71929824561403,250.26666666666668,Moderate,Moderately Efficient,Budget,34.1
+91.0,Ford Mustang Mach-E ER RWD,https://ev-database.org/car/2035/Ford-Mustang-Mach-E-ER-RWD,190,420.0,58500.0,480,180,7.0,True,Ford,121.875,325.0,Moderate,Moderately Efficient,Premium,49.7
+112.0,Lucid Air Grand Touring,https://ev-database.org/car/1316/Lucid-Air-Grand-Touring,168,840.0,159000.0,665,270,3.0,True,Lucid,239.09774436090225,588.8888888888889,Fast,Moderately Efficient,Luxury,84.5
+66.0,Volvo XC40 Recharge Single Motor,https://ev-database.org/car/1796/Volvo-XC40-Recharge-Single-Motor,191,420.0,47500.0,345,180,7.3,True,Volvo,137.68115942028984,263.8888888888889,Moderate,Moderately Efficient,Mid-Range,48.8
+67.0,Polestar 2 Standard Range Single Motor,https://ev-database.org/car/1817/Polestar-2-Standard-Range-Single-Motor,165,480.0,50775.0,405,205,6.4,True,Polestar,125.37037037037037,247.6829268292683,Moderate,Moderately Efficient,Mid-Range,57.9
+50.8,Peugeot e-2008 54 kWh,https://ev-database.org/car/1947/Peugeot-e-2008-54-kWh,169,480.0,40050.0,300,150,9.1,True,Peugeot,133.5,267.0,Moderate,Moderately Efficient,Budget,35.8
+75.8,XPENG G9 RWD Standard Range,https://ev-database.org/car/1824/XPENG-G9-RWD-Standard-Range,190,840.0,56942.0,400,200,6.4,True,Xpeng,142.355,284.71,Fast,Moderately Efficient,Mid-Range,56.6
+45.4,ORA Funky Cat 48 kWh,https://ev-database.org/car/1781/ORA-Funky-Cat-48-kWh,175,240.0,38990.0,260,160,8.3,True,Ora,149.96153846153845,243.6875,Slow,Moderately Efficient,Budget,40.7
+76.6,Audi Q4 e-tron 50 quattro,https://ev-database.org/car/1491/Audi-Q4-e-tron-50-quattro,199,550.0,56942.0,385,180,6.2,True,Audi,147.9012987012987,316.34444444444443,Moderate,Moderately Efficient,Mid-Range,52.0
+76.5,Hongqi E-HS9 84 kWh,https://ev-database.org/car/1746/Hongqi-E-HS9-84-kWh,239,440.0,56942.0,320,200,6.5,True,Hongqi,177.94375,284.71,Moderate,Less Efficient,Mid-Range,56.3
+107.0,Polestar 3 Long Range Dual motor,https://ev-database.org/car/1758/Polestar-3-Long-Range-Dual-motor,218,640.0,88600.0,490,210,5.0,True,Polestar,180.81632653061226,421.9047619047619,Fast,Less Efficient,Luxury,63.3
+70.0,MG Marvel R Performance,https://ev-database.org/car/1475/MG-Marvel-R-Performance,200,380.0,50990.0,350,200,4.9,True,Mg,145.68571428571428,254.95,Moderate,Moderately Efficient,Mid-Range,61.0
+49.0,MG ZS EV Standard Range,https://ev-database.org/car/1540/MG-ZS-EV-Standard-Range,185,250.0,33990.0,265,175,8.6,True,Mg,128.26415094339623,194.22857142857143,Slow,Moderately Efficient,Budget,43.7
+77.0,CUPRA Tavascan VZ,https://ev-database.org/car/1972/CUPRA-Tavascan-VZ,179,640.0,56942.0,430,180,5.6,True,Cupra,132.4232558139535,316.34444444444443,Fast,Moderately Efficient,Mid-Range,53.8
+64.0,Toyota bZ4X AWD,https://ev-database.org/car/1565/Toyota-bZ4X-AWD,203,470.0,57390.0,315,160,6.9,True,Toyota,182.1904761904762,358.6875,Moderate,Less Efficient,Premium,44.9
+89.0,Audi Q8 e-tron 50 quattro,https://ev-database.org/car/1769/Audi-Q8-e-tron-50-quattro,209,660.0,74400.0,425,200,6.0,True,Audi,175.05882352941177,372.0,Fast,Less Efficient,Luxury,57.8
+63.0,Nissan Ariya 63kWh,https://ev-database.org/car/1301/Nissan-Ariya-63kWh,188,450.0,47490.0,335,160,7.5,True,Nissan,141.76119402985074,296.8125,Moderate,Moderately Efficient,Mid-Range,43.1
+54.0,Kia EV6 Standard Range 2WD,https://ev-database.org/car/1480/Kia-EV6-Standard-Range-2WD,177,750.0,46990.0,305,185,8.5,True,Kia,154.0655737704918,254.0,Fast,Moderately Efficient,Budget,46.6
+118.0,Lucid Air Dream Edition P,https://ev-database.org/car/1098/Lucid-Air-Dream-Edition-P,177,840.0,218000.0,665,270,2.7,True,Lucid,327.81954887218046,807.4074074074074,Fast,Moderately Efficient,Luxury,85.4
+107.0,Volvo EX90 Twin Motor,https://ev-database.org/car/1775/Volvo-EX90-Twin-Motor,230,610.0,105550.0,465,180,5.9,True,Volvo,226.98924731182797,586.3888888888889,Fast,Less Efficient,Luxury,52.9
+66.5,Mercedes EQA 250,https://ev-database.org/car/1984/Mercedes-EQA-250,164,580.0,50777.0,405,160,8.6,True,Mercedes,125.37530864197531,317.35625,Moderate,Moderately Efficient,Mid-Range,39.9
+90.0,Mercedes EQV 300 Long,https://ev-database.org/car/1240/Mercedes-EQV-300-Long,290,310.0,71626.0,310,160,12.1,True,Mercedes,231.05161290322582,447.6625,Moderate,Less Efficient,Luxury,29.6
+70.5,NIO ET7 75 kWh,https://ev-database.org/car/1751/NIO-ET7-75-kWh,176,540.0,81900.0,400,200,3.8,True,Nio,204.75,409.5,Moderate,Moderately Efficient,Luxury,64.2
+91.0,Ford Mustang Mach-E ER AWD,https://ev-database.org/car/2037/Ford-Mustang-Mach-E-ER-AWD,204,390.0,65900.0,445,180,5.8,True,Ford,148.08988764044943,366.1111111111111,Moderate,Less Efficient,Premium,53.2
+52.0,Volkswagen ID.4 Pure,https://ev-database.org/car/2027/Volkswagen-ID4-Pure,182,360.0,40335.0,285,160,9.0,True,Volkswagen,141.52631578947367,252.09375,Moderate,Moderately Efficient,Budget,38.7
+123.0,VinFast VF 9 Extended Range,https://ev-database.org/car/1811/VinFast-VF-9-Extended-Range,237,520.0,89790.0,520,200,6.5,True,Vinfast,172.67307692307693,448.95,Moderate,Less Efficient,Luxury,56.3
+90.0,NIO ET5 100 kWh,https://ev-database.org/car/1787/NIO-ET5-100-kWh,180,520.0,68500.0,500,200,4.0,True,Nio,137.0,342.5,Moderate,Moderately Efficient,Premium,63.6
+77.0,Skoda Enyaq 85x,https://ev-database.org/car/2021/Skoda-Enyaq-85x,175,660.0,51150.0,440,180,6.6,True,Skoda,116.25,284.1666666666667,Fast,Moderately Efficient,Mid-Range,50.9
+93.1,XPENG G9 RWD Long Range,https://ev-database.org/car/1825/XPENG-G9-RWD-Long-Range,190,1020.0,56942.0,490,200,6.4,True,Xpeng,116.20816326530613,284.71,Fast,Moderately Efficient,Mid-Range,56.6
+79.0,Volvo C40 Recharge Twin Motor,https://ev-database.org/car/1801/Volvo-C40-Recharge-Twin-Motor,198,600.0,61400.0,400,180,4.7,True,Volvo,153.5,341.1111111111111,Fast,Moderately Efficient,Premium,56.5
+75.0,Fisker Ocean Sport,https://ev-database.org/car/1709/Fisker-Ocean-Sport,197,480.0,41560.0,380,160,7.4,True,Fisker,109.36842105263158,259.75,Moderate,Moderately Efficient,Budget,43.4
+96.0,Mercedes EQE SUV 500 4MATIC,https://ev-database.org/car/2048/Mercedes-EQE-SUV-500-4MATIC,211,630.0,99841.0,455,210,4.9,True,Mercedes,219.43076923076924,475.43333333333334,Fast,Less Efficient,Luxury,63.6
+49.0,Mini Cooper SE,https://ev-database.org/car/1998/Mini-Cooper-SE,158,440.0,36900.0,310,170,6.7,True,Mini,119.03225806451613,217.05882352941177,Moderate,Moderately Efficient,Budget,48.0
+72.6,Ford Mustang Mach-E SR RWD,https://ev-database.org/car/2034/Ford-Mustang-Mach-E-SR-RWD,191,460.0,55800.0,380,180,7.3,True,Ford,146.8421052631579,310.0,Moderate,Moderately Efficient,Mid-Range,48.8
+79.0,Volvo C40 Recharge Single Motor ER,https://ev-database.org/car/1800/Volvo-C40-Recharge-Single-Motor-ER,188,630.0,54450.0,420,180,7.3,True,Volvo,129.64285714285714,302.5,Fast,Moderately Efficient,Mid-Range,48.8
+84.7,Jaguar I-Pace EV400,https://ev-database.org/car/1812/Jaguar-I-Pace-EV400,223,360.0,92400.0,380,200,4.8,True,Jaguar,243.1578947368421,462.0,Moderate,Less Efficient,Luxury,61.3
+77.0,Skoda Enyaq Coupe RS,https://ev-database.org/car/2026/Skoda-Enyaq-Coupe-RS,169,680.0,63300.0,455,180,5.5,True,Skoda,139.12087912087912,351.6666666666667,Fast,Moderately Efficient,Premium,54.1
+82.7,XPENG P7 Wing Edition,https://ev-database.org/car/1823/XPENG-P7-Wing-Edition,178,650.0,56942.0,465,200,4.1,True,Xpeng,122.45591397849462,284.71,Fast,Moderately Efficient,Mid-Range,63.3
+106.5,Fisker Ocean Extreme,https://ev-database.org/car/1711/Fisker-Ocean-Extreme,201,630.0,69950.0,530,205,3.9,True,Fisker,131.9811320754717,341.219512195122,Fast,Less Efficient,Premium,65.2
+89.0,Mercedes EQE 300,https://ev-database.org/car/1897/Mercedes-EQE-300,170,660.0,67187.0,525,210,7.3,True,Mercedes,127.9752380952381,319.93809523809523,Fast,Moderately Efficient,Premium,56.5
+28.5,Honda e Advance,https://ev-database.org/car/1233/Honda-e-Advance,168,180.0,39900.0,170,145,8.3,True,Honda,234.7058823529412,275.17241379310343,Slow,Moderately Efficient,Budget,36.9
+109.0,Lotus Eletre R,https://ev-database.org/car/1768/Lotus-Eletre-R,240,950.0,150990.0,455,260,2.9,True,Lotus,331.84615384615387,580.7307692307693,Fast,Less Efficient,Luxury,82.3
+62.0,Smart #3 Brabus,https://ev-database.org/car/2000/Smart-3-Brabus,188,510.0,50990.0,330,180,3.7,True,Smart,154.5151515151515,283.27777777777777,Moderate,Moderately Efficient,Mid-Range,59.4
+50.8,Peugeot e-308 SW,https://ev-database.org/car/1745/Peugeot-e-308-SW,169,450.0,45765.0,300,150,9.0,True,Peugeot,152.55,305.1,Moderate,Moderately Efficient,Budget,36.1
+89.0,Mercedes EQE SUV 350 4MATIC,https://ev-database.org/car/1761/Mercedes-EQE-SUV-350-4MATIC,209,540.0,56942.0,425,210,6.6,True,Mercedes,133.98117647058822,271.15238095238095,Moderate,Less Efficient,Mid-Range,58.6
+108.4,Mercedes EQS SUV 450+,https://ev-database.org/car/1673/Mercedes-EQS-SUV-450plus,217,750.0,110801.0,500,210,6.7,True,Mercedes,221.602,527.6238095238095,Fast,Less Efficient,Luxury,58.3
+44.9,BYD DOLPHIN 44.9 kWh Boost,https://ev-database.org/car/1918/BYD-DOLPHIN-449-kWh-Boost,176,260.0,32740.0,255,160,8.0,True,Byd,128.3921568627451,204.625,Slow,Moderately Efficient,Budget,41.6
+48.1,Opel Corsa Electric 51 kWh,https://ev-database.org/car/1942/Opel-Corsa-Electric-51-kWh,153,490.0,38045.0,315,150,8.1,True,Opel,120.77777777777777,253.63333333333333,Moderate,Moderately Efficient,Budget,38.8
+56.0,SsangYong Korando e-Motion,https://ev-database.org/car/1589/SsangYong-Korando-e-Motion,193,330.0,40490.0,290,156,8.5,True,Ssangyong,139.6206896551724,259.55128205128204,Moderate,Moderately Efficient,Budget,39.1
+77.0,Volkswagen ID.4 Pro 4MOTION,https://ev-database.org/car/2029/Volkswagen-ID4-Pro-4MOTION,181,630.0,49020.0,425,180,6.6,True,Volkswagen,115.34117647058824,272.3333333333333,Fast,Moderately Efficient,Mid-Range,50.9
+66.5,Mercedes EQA 350 4MATIC,https://ev-database.org/car/1496/Mercedes-EQA-350-4MATIC,190,500.0,56942.0,350,160,6.0,True,Mercedes,162.69142857142856,355.8875,Moderate,Moderately Efficient,Mid-Range,47.5
+40.0,Renault Megane E-Tech EV40 130hp,https://ev-database.org/car/1536/Renault-Megane-E-Tech-EV40-130hp,154,370.0,42000.0,260,150,10.0,True,Renault,161.53846153846155,280.0,Moderate,Moderately Efficient,Budget,33.2
+47.0,Smart #1 Pro,https://ev-database.org/car/2041/Smart-1-Pro,184,330.0,37490.0,255,180,6.7,True,Smart,147.01960784313727,208.27777777777777,Moderate,Moderately Efficient,Budget,50.6
+50.8,Citroen e-C4 54 kWh,https://ev-database.org/car/1938/Citroen-e-C4-54-kWh,154,470.0,41540.0,330,150,10.0,True,Citroen,125.87878787878788,276.93333333333334,Moderate,Moderately Efficient,Budget,33.2
+92.0,Lucid Air Touring,https://ev-database.org/car/1317/Lucid-Air-Touring,159,970.0,129000.0,580,250,3.2,True,Lucid,222.41379310344828,516.0,Fast,Moderately Efficient,Luxury,78.8
+77.0,CUPRA Tavascan Endurance,https://ev-database.org/car/1971/CUPRA-Tavascan-Endurance,171,670.0,56942.0,450,180,6.8,True,Cupra,126.53777777777778,316.34444444444443,Fast,Moderately Efficient,Mid-Range,50.3
+107.0,Volvo EX90 Twin Motor Performance,https://ev-database.org/car/1776/Volvo-EX90-Twin-Motor-Performance,238,590.0,110650.0,450,180,4.9,True,Volvo,245.88888888888889,614.7222222222222,Moderate,Less Efficient,Luxury,55.9
+46.3,Peugeot e-2008 50 kWh,https://ev-database.org/car/1946/Peugeot-e-2008-50-kWh,171,430.0,56942.0,270,150,9.9,True,Peugeot,210.8962962962963,379.61333333333334,Moderate,Moderately Efficient,Mid-Range,33.5
+77.0,Volkswagen ID.4 GTX,https://ev-database.org/car/2030/Volkswagen-ID4-GTX,183,630.0,53255.0,420,180,5.4,True,Volkswagen,126.79761904761905,295.8611111111111,Fast,Moderately Efficient,Mid-Range,54.4
+66.5,Mercedes EQA 350 4MATIC,https://ev-database.org/car/1987/Mercedes-EQA-350-4MATIC,187,510.0,56424.0,355,160,6.0,True,Mercedes,158.94084507042254,352.65,Moderate,Moderately Efficient,Mid-Range,47.5
+77.0,Skoda Enyaq Coupe 85x,https://ev-database.org/car/2025/Skoda-Enyaq-Coupe-85x,164,700.0,53400.0,470,180,6.6,True,Skoda,113.61702127659575,296.6666666666667,Fast,Moderately Efficient,Mid-Range,50.9
+70.5,Mercedes EQA 250+,https://ev-database.org/car/1985/Mercedes-EQA-250plus,164,600.0,52205.0,430,160,8.6,True,Mercedes,121.40697674418605,326.28125,Fast,Moderately Efficient,Mid-Range,39.9
+74.0,Genesis GV60 Premium,https://ev-database.org/car/1647/Genesis-GV60-Premium,190,1020.0,56942.0,390,185,7.8,True,Genesis,146.00512820512822,307.79459459459457,Fast,Moderately Efficient,Mid-Range,48.6
+108.4,Mercedes EQS 580 4MATIC,https://ev-database.org/car/2011/Mercedes-EQS-580-4MATIC,184,880.0,141705.0,590,210,4.3,True,Mercedes,240.17796610169492,674.7857142857143,Fast,Moderately Efficient,Luxury,65.3
+45.0,Renault Kangoo E-Tech Electric,https://ev-database.org/car/1802/Renault-Kangoo-E-Tech-Electric,205,230.0,39300.0,220,132,12.6,True,Renault,178.63636363636363,297.72727272727275,Slow,Less Efficient,Budget,20.9
+48.1,Peugeot e-208 51 kWh,https://ev-database.org/car/1949/Peugeot-e-208-51-kWh,155,480.0,36775.0,310,150,8.2,True,Peugeot,118.62903225806451,245.16666666666666,Moderate,Moderately Efficient,Budget,38.5
+60.0,Aiways U5,https://ev-database.org/car/1678/Aiways-U5,190,380.0,39563.0,315,150,7.5,True,Aiways,125.5968253968254,263.75333333333333,Moderate,Moderately Efficient,Budget,40.5
+48.4,Hyundai Kona Electric 48 kWh,https://ev-database.org/car/1829/Hyundai-Kona-Electric-48-kWh,167,280.0,41990.0,290,160,7.8,True,Hyundai,144.79310344827587,262.4375,Slow,Moderately Efficient,Budget,42.2
+77.0,Audi Q4 e-tron 55 quattro,https://ev-database.org/car/2015/Audi-Q4-e-tron-55-quattro,195,590.0,59000.0,395,180,5.4,True,Audi,149.36708860759492,327.77777777777777,Moderate,Moderately Efficient,Premium,54.4
+93.1,XPENG G9 AWD Performance,https://ev-database.org/car/1826/XPENG-G9-AWD-Performance,196,990.0,56942.0,475,200,3.9,True,Xpeng,119.87789473684211,284.71,Fast,Moderately Efficient,Mid-Range,63.9
+76.6,Audi Q4 Sportback e-tron 40,https://ev-database.org/car/1528/Audi-Q4-Sportback-e-tron-40,180,660.0,56942.0,425,160,8.5,True,Audi,133.98117647058822,355.8875,Fast,Moderately Efficient,Mid-Range,40.2
+90.0,NIO ET7 100 kWh,https://ev-database.org/car/1752/NIO-ET7-100-kWh,178,530.0,90900.0,505,200,3.8,True,Nio,180.0,454.5,Moderate,Moderately Efficient,Luxury,64.2
+66.5,Mercedes EQA 300 4MATIC,https://ev-database.org/car/1495/Mercedes-EQA-300-4MATIC,190,500.0,56942.0,350,160,7.7,True,Mercedes,162.69142857142856,355.8875,Moderate,Moderately Efficient,Mid-Range,42.5
+77.0,Audi Q4 Sportback e-tron 45,https://ev-database.org/car/2016/Audi-Q4-Sportback-e-tron-45,177,650.0,54950.0,435,180,6.7,True,Audi,126.32183908045977,305.27777777777777,Fast,Moderately Efficient,Mid-Range,50.6
+90.6,Mercedes EQE SUV 500 4MATIC,https://ev-database.org/car/1762/Mercedes-EQE-SUV-500-4MATIC,208,650.0,56942.0,435,210,4.9,True,Mercedes,130.90114942528734,271.15238095238095,Fast,Less Efficient,Mid-Range,63.6
+64.0,Kia e-Soul 64 kWh,https://ev-database.org/car/1749/Kia-e-Soul-64-kWh,173,350.0,46950.0,370,167,7.9,True,Kia,126.89189189189189,281.1377245508982,Moderate,Moderately Efficient,Budget,43.7
+101.7,BMW i7 eDrive50,https://ev-database.org/car/1905/BMW-i7-eDrive50,196,780.0,115700.0,520,205,5.5,True,Bmw,222.5,564.390243902439,Fast,Moderately Efficient,Luxury,60.5
+106.0,Audi SQ8 e-tron,https://ev-database.org/car/1773/Audi-SQ8-e-tron,233,570.0,95800.0,455,210,4.5,True,Audi,210.54945054945054,456.1904761904762,Moderate,Less Efficient,Luxury,64.7
+83.7,Porsche Taycan GTS,https://ev-database.org/car/1560/Porsche-Taycan-GTS,186,1110.0,139906.0,450,250,3.7,True,Porsche,310.90222222222224,559.624,Fast,Moderately Efficient,Luxury,77.3
+82.7,XPENG P7 RWD Long Range,https://ev-database.org/car/1821/XPENG-P7-RWD-Long-Range,167,690.0,56942.0,495,200,6.7,True,Xpeng,115.03434343434344,284.71,Fast,Moderately Efficient,Mid-Range,55.7
+83.7,Porsche Taycan Plus,https://ev-database.org/car/1924/Porsche-Taycan-Plus,173,1190.0,98863.0,485,230,5.4,True,Porsche,203.84123711340206,429.8391304347826,Fast,Moderately Efficient,Luxury,67.2
+101.7,BMW i7 M70 xDrive,https://ev-database.org/car/1838/BMW-i7-M70-xDrive,208,730.0,181800.0,490,250,3.7,True,Bmw,371.0204081632653,727.2,Fast,Less Efficient,Luxury,77.3
+50.8,Opel Astra Sports Tourer Electric,https://ev-database.org/car/1793/Opel-Astra-Sports-Tourer-Electric,169,480.0,43490.0,300,170,9.3,True,Opel,144.96666666666667,255.8235294117647,Moderate,Moderately Efficient,Budget,40.4
+66.0,Volvo C40 Recharge Single Motor,https://ev-database.org/car/1799/Volvo-C40-Recharge-Single-Motor,186,430.0,47500.0,355,180,7.3,True,Volvo,133.80281690140845,263.8888888888889,Moderate,Moderately Efficient,Mid-Range,48.8
+92.0,Lucid Air Pure AWD,https://ev-database.org/car/1318/Lucid-Air-Pure-AWD,156,990.0,109000.0,590,200,4.2,True,Lucid,184.74576271186442,545.0,Fast,Moderately Efficient,Luxury,63.1
+77.0,Volkswagen ID.5 GTX,https://ev-database.org/car/2033/Volkswagen-ID5-GTX,179,640.0,56455.0,430,180,5.5,True,Volkswagen,131.2906976744186,313.6388888888889,Fast,Moderately Efficient,Mid-Range,54.1
+83.0,Maserati GranTurismo Folgore,https://ev-database.org/car/1803/Maserati-GranTurismo-Folgore,195,990.0,56942.0,425,320,2.7,True,Maserati,133.98117647058822,177.94375,Fast,Moderately Efficient,Mid-Range,98.2
+64.7,Mini Countryman E,https://ev-database.org/car/1994/Mini-Countryman-E,170,550.0,56942.0,380,170,8.6,True,Mini,149.84736842105264,334.9529411764706,Moderate,Moderately Efficient,Mid-Range,42.4
+21.3,Fiat 500e Hatchback 24 kWh,https://ev-database.org/car/1327/Fiat-500e-Hatchback-24-kWh,158,230.0,30990.0,135,135,9.0,True,Fiat,229.55555555555554,229.55555555555554,Slow,Moderately Efficient,Budget,32.3
+46.3,Opel Corsa Electric 50 kWh,https://ev-database.org/car/1941/Opel-Corsa-Electric-50-kWh,157,470.0,34650.0,295,150,8.7,True,Opel,117.45762711864407,231.0,Moderate,Moderately Efficient,Budget,37.0
+107.0,Polestar 3 Long Range Performance,https://ev-database.org/car/1759/Polestar-3-Long-Range-Performance,228,610.0,95200.0,470,210,4.7,True,Polestar,202.5531914893617,453.3333333333333,Fast,Less Efficient,Luxury,64.1
+46.3,Citroen e-Berlingo M 50 kWh,https://ev-database.org/car/1546/Citroen-e-Berlingo-M-50-kWh,226,330.0,37790.0,205,135,11.7,True,Citroen,184.34146341463415,279.9259259259259,Moderate,Less Efficient,Budget,24.3
+90.0,Mercedes eVito Tourer Long 90 kWh,https://ev-database.org/car/1615/Mercedes-eVito-Tourer-Long-90-kWh,290,310.0,64248.0,310,160,12.0,True,Mercedes,207.2516129032258,401.55,Moderate,Less Efficient,Premium,29.9
+87.0,Nissan Ariya e-4ORCE 87kWh - 225 kW,https://ev-database.org/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,215,480.0,61990.0,405,200,5.7,True,Nissan,153.06172839506172,309.95,Moderate,Less Efficient,Premium,58.6
+90.0,NIO EL6 100 kWh,https://ev-database.org/car/1922/NIO-EL6-100-kWh,205,460.0,74500.0,440,200,4.5,True,Nio,169.3181818181818,372.5,Moderate,Less Efficient,Luxury,62.2
+50.8,Citroen e-C4 X 54 kWh,https://ev-database.org/car/1939/Citroen-e-C4-X-54-kWh,154,470.0,41540.0,330,150,10.0,True,Citroen,125.87878787878788,276.93333333333334,Moderate,Moderately Efficient,Budget,33.2
+50.8,DS 3 E-Tense,https://ev-database.org/car/1791/DS-3-E-Tense,169,480.0,40540.0,300,150,9.0,True,Ds,135.13333333333333,270.26666666666665,Moderate,Moderately Efficient,Budget,36.1
+108.4,Mercedes EQS 450 4MATIC,https://ev-database.org/car/2009/Mercedes-EQS-450-4MATIC,178,910.0,113359.0,610,210,5.6,True,Mercedes,185.8344262295082,539.8047619047619,Fast,Moderately Efficient,Luxury,61.5
+51.0,Seres 3,https://ev-database.org/car/1804/Seres-3,196,240.0,56942.0,260,155,8.9,True,Seres,219.0076923076923,367.3677419354839,Slow,Moderately Efficient,Mid-Range,37.7
+46.0,MG MG5 Electric Standard Range,https://ev-database.org/car/1646/MG-MG5-Electric-Standard-Range,174,320.0,35490.0,265,185,7.7,True,Mg,133.9245283018868,191.83783783783784,Moderate,Moderately Efficient,Budget,48.9
+96.0,Mercedes EQE SUV 350+,https://ev-database.org/car/2046/Mercedes-EQE-SUV-350plus,202,660.0,86811.0,475,210,6.9,True,Mercedes,182.76,413.3857142857143,Fast,Less Efficient,Luxury,57.7
+89.0,Mercedes EQE 350 4MATIC,https://ev-database.org/car/1899/Mercedes-EQE-350-4MATIC,176,640.0,74149.0,505,210,6.3,True,Mercedes,146.82970297029703,353.0904761904762,Fast,Moderately Efficient,Luxury,59.4
+83.7,Porsche Taycan Turbo S,https://ev-database.org/car/1928/Porsche-Taycan-Turbo-S,195,1060.0,197740.0,430,260,2.8,True,Porsche,459.86046511627904,760.5384615384615,Fast,Moderately Efficient,Luxury,82.6
+46.3,Peugeot e-Rifter Long 50 kWh,https://ev-database.org/car/1523/Peugeot-e-Rifter-Long-50-kWh,232,320.0,42440.0,200,135,11.7,True,Peugeot,212.2,314.3703703703704,Moderate,Less Efficient,Budget,24.3
+90.0,NIO EL7 100 kWh,https://ev-database.org/car/1789/NIO-EL7-100-kWh,209,450.0,94900.0,430,200,3.9,True,Nio,220.69767441860466,474.5,Moderate,Less Efficient,Luxury,63.9
+91.0,Ford Mustang Mach-E GT,https://ev-database.org/car/2038/Ford-Mustang-Mach-E-GT,214,380.0,77300.0,425,200,3.7,True,Ford,181.88235294117646,386.5,Moderate,Less Efficient,Luxury,64.5
+64.7,Mini Countryman SE ALL4,https://ev-database.org/car/1995/Mini-Countryman-SE-ALL4,175,530.0,56942.0,370,180,5.6,True,Mini,153.89729729729729,316.34444444444443,Moderate,Moderately Efficient,Mid-Range,53.8
+64.0,Zeekr X Long Range RWD,https://ev-database.org/car/1936/Zeekr-X-Long-Range-RWD,178,540.0,45970.0,360,180,5.6,True,Zeekr,127.69444444444444,255.38888888888889,Moderate,Moderately Efficient,Budget,53.8
+95.0,Maserati Grecale Folgore,https://ev-database.org/car/1843/Maserati-Grecale-Folgore,235,440.0,56942.0,405,220,4.1,True,Maserati,140.59753086419752,258.8272727272727,Moderate,Less Efficient,Mid-Range,68.5
+94.0,Zeekr 001 Privilege AWD,https://ev-database.org/car/1935/Zeekr-001-Privilege-AWD,188,700.0,68970.0,500,200,3.8,True,Zeekr,137.94,344.85,Fast,Moderately Efficient,Premium,64.2
+90.0,NIO ET5 Touring 100 kWh,https://ev-database.org/car/1916/NIO-ET5-Touring-100-kWh,186,500.0,68500.0,485,200,4.0,True,Nio,141.23711340206185,342.5,Moderate,Moderately Efficient,Premium,63.6
+79.0,Polestar 2 Long Range Performance,https://ev-database.org/car/1820/Polestar-2-Long-Range-Performance,176,670.0,65275.0,450,205,4.2,True,Polestar,145.05555555555554,318.4146341463415,Fast,Moderately Efficient,Premium,64.3
+66.5,Mercedes EQB 300 4MATIC,https://ev-database.org/car/1989/Mercedes-EQB-300-4MATIC,193,500.0,55519.0,345,160,8.0,True,Mercedes,160.92463768115942,346.99375,Moderate,Moderately Efficient,Mid-Range,41.6
+101.0,Volvo EX90 Single Motor,https://ev-database.org/car/1950/Volvo-EX90-Single-Motor,220,600.0,56942.0,460,180,8.4,True,Volvo,123.78695652173913,316.34444444444443,Fast,Less Efficient,Mid-Range,45.6
+45.0,Nissan Townstar EV Passenger,https://ev-database.org/car/2042/Nissan-Townstar-EV-Passenger,200,230.0,39990.0,225,132,12.6,True,Nissan,177.73333333333332,302.95454545454544,Slow,Moderately Efficient,Budget,20.9
+59.3,ORA Funky Cat 63 kWh,https://ev-database.org/car/1814/ORA-Funky-Cat-63-kWh,174,240.0,44490.0,340,160,8.2,True,Ora,130.85294117647058,278.0625,Slow,Moderately Efficient,Budget,41.0
+89.0,Mercedes EQE 350,https://ev-database.org/car/1898/Mercedes-EQE-350,173,650.0,70995.0,515,210,6.4,True,Mercedes,137.85436893203882,338.07142857142856,Fast,Moderately Efficient,Luxury,59.1
+89.0,Audi Q8 e-tron Sportback 50 quattro,https://ev-database.org/car/1771/Audi-Q8-e-tron-Sportback-50-quattro,200,690.0,76650.0,445,200,6.0,True,Audi,172.24719101123594,383.25,Fast,Moderately Efficient,Luxury,57.8
+37.3,Fiat 500e 3+1 42 kWh,https://ev-database.org/car/1328/Fiat-500e-3plus1-42-kWh,159,390.0,36990.0,235,150,9.0,True,Fiat,157.40425531914894,246.6,Moderate,Moderately Efficient,Budget,36.1
+77.0,Audi Q4 e-tron 45 quattro,https://ev-database.org/car/2014/Audi-Q4-e-tron-45-quattro,195,590.0,54950.0,395,180,6.6,True,Audi,139.1139240506329,305.27777777777777,Moderate,Moderately Efficient,Mid-Range,50.9
+70.5,NIO ET5 75 kWh,https://ev-database.org/car/1786/NIO-ET5-75-kWh,178,530.0,59500.0,395,200,4.0,True,Nio,150.63291139240508,297.5,Moderate,Moderately Efficient,Premium,63.6
+37.0,Mini Cooper E,https://ev-database.org/car/1997/Mini-Cooper-E,157,360.0,56942.0,235,160,7.3,True,Mini,242.3063829787234,355.8875,Moderate,Moderately Efficient,Mid-Range,43.7
+74.0,Genesis GV70 Electrified Sport,https://ev-database.org/car/1725/Genesis-GV70-Electrified-Sport,211,860.0,67300.0,350,235,4.2,True,Genesis,192.28571428571428,286.3829787234043,Fast,Less Efficient,Premium,72.0
+66.5,Mercedes EQB 350 4MATIC,https://ev-database.org/car/1990/Mercedes-EQB-350-4MATIC,193,500.0,58197.0,345,160,6.2,True,Mercedes,168.68695652173912,363.73125,Moderate,Moderately Efficient,Premium,46.9
+73.0,Peugeot e-3008 73 kWh Dual Motor,https://ev-database.org/car/2004/Peugeot-e-3008-73-kWh-Dual-Motor,190,440.0,56942.0,385,180,6.0,True,Peugeot,147.9012987012987,316.34444444444443,Moderate,Moderately Efficient,Mid-Range,52.6
+108.4,Mercedes EQS AMG 53 4MATIC+,https://ev-database.org/car/2012/Mercedes-EQS-AMG-53-4MATICplus,203,800.0,155009.0,535,250,3.4,True,Mercedes,289.73644859813083,620.036,Fast,Less Efficient,Luxury,78.2
+70.5,NIO ET5 Touring 75 kWh,https://ev-database.org/car/1915/NIO-ET5-Touring-75-kWh,183,520.0,59500.0,385,200,4.0,True,Nio,154.54545454545453,297.5,Moderate,Moderately Efficient,Premium,63.6
+90.6,Mercedes EQE SUV 350 4MATIC,https://ev-database.org/car/2047/Mercedes-EQE-SUV-350-4MATIC,208,550.0,89548.0,435,210,6.6,True,Mercedes,205.8574712643678,426.4190476190476,Moderate,Less Efficient,Luxury,58.6
+77.0,Audi Q4 Sportback e-tron 55 quattro,https://ev-database.org/car/2018/Audi-Q4-Sportback-e-tron-55-quattro,186,620.0,61000.0,415,180,5.4,True,Audi,146.9879518072289,338.8888888888889,Fast,Moderately Efficient,Premium,54.4
+77.0,Skoda Enyaq RS,https://ev-database.org/car/2022/Skoda-Enyaq-RS,177,650.0,61050.0,435,180,5.5,True,Skoda,140.3448275862069,339.1666666666667,Fast,Moderately Efficient,Premium,54.1
+82.5,Genesis G80 Electrified Luxury,https://ev-database.org/car/1703/Genesis-G80-Electrified-Luxury,188,880.0,69200.0,440,225,4.9,True,Genesis,157.27272727272728,307.55555555555554,Fast,Moderately Efficient,Premium,67.4
+58.0,CUPRA Born 170 kW - 58 kWh,https://ev-database.org/car/1517/CUPRA-Born-170-kW---58-kWh,168,460.0,40750.0,345,160,6.6,True,Cupra,118.1159420289855,254.6875,Moderate,Moderately Efficient,Budget,45.7
+71.0,Porsche Taycan,https://ev-database.org/car/1923/Porsche-Taycan,169,1030.0,93139.0,420,230,5.4,True,Porsche,221.7595238095238,404.95217391304345,Fast,Moderately Efficient,Luxury,67.2
+108.4,Mercedes EQS SUV 500 4MATIC,https://ev-database.org/car/1795/Mercedes-EQS-SUV-500-4MATIC,221,730.0,124545.0,490,210,5.2,True,Mercedes,254.1734693877551,593.0714285714286,Fast,Less Efficient,Luxury,62.7
+46.3,Peugeot e-208 50 kWh,https://ev-database.org/car/1948/Peugeot-e-208-50-kWh,160,460.0,56942.0,290,150,9.0,True,Peugeot,196.35172413793103,379.61333333333334,Moderate,Moderately Efficient,Mid-Range,36.1
+27.0,e.Go e.wave X,https://ev-database.org/car/1896/eGo-ewave-X,180,520.0,24990.0,150,135,12.0,False,E.Go,166.6,185.11111111111111,Moderate,Moderately Efficient,Budget,23.4
+45.0,Mercedes EQT 200 Standard,https://ev-database.org/car/1908/Mercedes-EQT-200-Standard,200,230.0,49445.0,225,132,12.6,True,Mercedes,219.75555555555556,374.5833333333333,Slow,Moderately Efficient,Mid-Range,20.9
+72.6,Ford Mustang Mach-E SR AWD,https://ev-database.org/car/2036/Ford-Mustang-Mach-E-SR-AWD,207,430.0,56942.0,350,180,6.2,True,Ford,162.69142857142856,316.34444444444443,Moderate,Less Efficient,Mid-Range,52.0
+64.0,Lexus UX 300e,https://ev-database.org/car/1943/Lexus-UX-300e,188,170.0,56942.0,340,160,7.5,True,Lexus,167.4764705882353,355.8875,Slow,Moderately Efficient,Mid-Range,43.1
+108.4,Mercedes EQS 500 4MATIC,https://ev-database.org/car/2010/Mercedes-EQS-500-4MATIC,184,880.0,125378.0,590,210,4.8,True,Mercedes,212.5050847457627,597.0380952380953,Fast,Moderately Efficient,Luxury,63.9
+83.7,Porsche Taycan 4S Plus,https://ev-database.org/car/1926/Porsche-Taycan-4S-Plus,174,1180.0,120081.0,480,250,4.0,True,Porsche,250.16875,480.324,Fast,Moderately Efficient,Luxury,76.5
+90.6,Mercedes EQE 500 4MATIC,https://ev-database.org/car/1900/Mercedes-EQE-500-4MATIC,179,750.0,88215.0,505,210,4.7,True,Mercedes,174.68316831683168,420.07142857142856,Fast,Moderately Efficient,Luxury,64.1
+83.7,Porsche Taycan 4 Cross Turismo,https://ev-database.org/car/1929/Porsche-Taycan-4-Cross-Turismo,190,1080.0,103254.0,440,220,5.1,True,Porsche,234.6681818181818,469.3363636363636,Fast,Moderately Efficient,Luxury,65.5
+81.0,Elaris BEO 86 kWh,https://ev-database.org/car/1975/Elaris-BEO-86-kWh,208,290.0,53090.0,390,150,8.0,True,Elaris,136.12820512820514,353.93333333333334,Slow,Less Efficient,Mid-Range,39.1
+108.4,Mercedes EQS SUV 450 4MATIC,https://ev-database.org/car/1674/Mercedes-EQS-SUV-450-4MATIC,221,730.0,114609.0,490,210,6.0,True,Mercedes,233.89591836734695,545.7571428571429,Fast,Less Efficient,Luxury,60.3
+87.0,Nissan Ariya e-4ORCE 87kWh - 290 kW,https://ev-database.org/car/1305/Nissan-Ariya-e-4ORCE-87kWh---290-kW,215,480.0,71490.0,405,200,5.1,True,Nissan,176.5185185185185,357.45,Moderate,Less Efficient,Luxury,60.4
+68.0,Opel Vivaro-e Combi M 75 kWh,https://ev-database.org/car/1602/Opel-Vivaro-e-Combi-M-75-kWh,257,290.0,56942.0,265,130,13.3,True,Opel,214.87547169811322,438.0153846153846,Slow,Less Efficient,Mid-Range,18.3
+76.6,Audi Q4 Sportback e-tron 50 quattro,https://ev-database.org/car/1492/Audi-Q4-Sportback-e-tron-50-quattro,192,570.0,56942.0,400,180,6.2,True,Audi,142.355,316.34444444444443,Moderate,Moderately Efficient,Mid-Range,52.0
+59.3,ORA Funky Cat GT,https://ev-database.org/car/1815/ORA-Funky-Cat-GT,180,230.0,49490.0,330,160,8.2,True,Ora,149.96969696969697,309.3125,Slow,Moderately Efficient,Mid-Range,41.0
+90.6,Mercedes EQE SUV 300,https://ev-database.org/car/2045/Mercedes-EQE-SUV-300,201,570.0,83479.0,450,210,7.6,True,Mercedes,185.5088888888889,397.5190476190476,Moderate,Less Efficient,Luxury,55.6
+106.0,Audi SQ8 e-tron Sportback,https://ev-database.org/car/1774/Audi-SQ8-e-tron-Sportback,221,610.0,98050.0,480,210,4.5,True,Audi,204.27083333333334,466.9047619047619,Fast,Less Efficient,Luxury,64.7
+77.0,Audi Q4 Sportback e-tron 45 quattro,https://ev-database.org/car/2017/Audi-Q4-Sportback-e-tron-45-quattro,186,620.0,56950.0,415,180,6.6,True,Audi,137.2289156626506,316.3888888888889,Fast,Moderately Efficient,Premium,50.9
+82.7,XPENG P7 AWD Performance,https://ev-database.org/car/1822/XPENG-P7-AWD-Performance,180,640.0,56942.0,460,200,4.1,True,Xpeng,123.78695652173913,284.71,Fast,Moderately Efficient,Mid-Range,63.3
+62.0,Smart #1 Pulse,https://ev-database.org/car/1920/Smart-1-Pulse,194,490.0,46490.0,320,180,3.9,True,Smart,145.28125,258.27777777777777,Moderate,Moderately Efficient,Budget,58.8
+46.3,Toyota Proace City Verso Electric L1 50 kWh,https://ev-database.org/car/1779/Toyota-Proace-City-Verso-Electric-L1-50-kWh,220,330.0,37800.0,210,135,11.2,True,Toyota,180.0,280.0,Moderate,Less Efficient,Budget,25.8
+58.0,Skoda Enyaq Coupe 60,https://ev-database.org/car/2023/Skoda-Enyaq-Coupe-60,163,480.0,56942.0,355,160,8.8,True,Skoda,160.4,355.8875,Moderate,Moderately Efficient,Mid-Range,39.3
+37.3,Fiat 500e Cabrio 42 kWh,https://ev-database.org/car/1275/Fiat-500e-Cabrio-42-kWh,162,380.0,37990.0,230,150,9.0,True,Fiat,165.17391304347825,253.26666666666668,Moderate,Moderately Efficient,Budget,36.1
+90.6,Mercedes EQE SUV AMG 43 4MATIC,https://ev-database.org/car/1763/Mercedes-EQE-SUV-AMG-43-4MATIC,218,620.0,124920.0,415,210,4.3,True,Mercedes,301.0120481927711,594.8571428571429,Fast,Less Efficient,Luxury,65.3
+68.0,Toyota PROACE Verso M 75 kWh,https://ev-database.org/car/1514/Toyota-PROACE-Verso-M-75-kWh,257,290.0,64530.0,265,130,13.1,True,Toyota,243.50943396226415,496.38461538461536,Slow,Less Efficient,Premium,18.9
+46.3,Toyota Proace City Verso Electric L2 50 kWh,https://ev-database.org/car/1780/Toyota-Proace-City-Verso-Electric-L2-50-kWh,226,330.0,40150.0,205,135,11.2,True,Toyota,195.85365853658536,297.4074074074074,Moderate,Less Efficient,Budget,25.8
+71.0,Porsche Taycan 4S,https://ev-database.org/car/1925/Porsche-Taycan-4S,171,1020.0,114559.0,415,250,4.0,True,Porsche,276.0457831325301,458.236,Fast,Moderately Efficient,Luxury,76.5
+87.7,VinFast VF 8 Eco Extended Range,https://ev-database.org/car/1807/VinFast-VF-8-Eco-Extended-Range,206,550.0,52990.0,425,200,5.9,True,Vinfast,124.68235294117648,264.95,Moderate,Less Efficient,Mid-Range,58.1
+90.6,Mercedes EQE AMG 43 4MATIC,https://ev-database.org/car/1901/Mercedes-EQE-AMG-43-4MATIC,195,690.0,104756.0,465,210,4.2,True,Mercedes,225.28172043010753,498.83809523809526,Fast,Moderately Efficient,Luxury,65.6
+66.5,Mercedes EQA 300 4MATIC,https://ev-database.org/car/1986/Mercedes-EQA-300-4MATIC,187,510.0,53520.0,355,160,7.7,True,Mercedes,150.7605633802817,334.5,Moderate,Moderately Efficient,Mid-Range,42.5
+21.3,Fiat 500e 3+1 24 kWh,https://ev-database.org/car/1726/Fiat-500e-3plus1-24-kWh,158,230.0,56942.0,135,135,9.0,True,Fiat,421.7925925925926,421.7925925925926,Slow,Moderately Efficient,Mid-Range,32.3
+46.3,Citroen e-SpaceTourer M 50 kWh,https://ev-database.org/car/1341/Citroen-e-SpaceTourer-M-50-kWh,250,290.0,53640.0,185,130,12.1,True,Citroen,289.94594594594594,412.61538461538464,Slow,Less Efficient,Mid-Range,21.9
+37.8,Abarth 500e Hatchback,https://ev-database.org/car/1903/Abarth-500e-Hatchback,168,370.0,37990.0,225,155,7.0,True,Abarth,168.84444444444443,245.09677419354838,Moderate,Moderately Efficient,Budget,43.3
+90.6,Mercedes EQE SUV AMG 53 4MATIC+,https://ev-database.org/car/1764/Mercedes-EQE-SUV-AMG-53-4MATICplus,221,610.0,139438.0,410,240,3.5,True,Mercedes,340.09268292682924,580.9916666666667,Fast,Less Efficient,Luxury,75.4
+68.0,Opel Zafira-e Life L 75 kWh,https://ev-database.org/car/1349/Opel-Zafira-e-Life-L-75-kWh,262,280.0,70075.0,260,130,13.3,True,Opel,269.5192307692308,539.0384615384615,Slow,Less Efficient,Luxury,18.3
+60.0,Aiways U6,https://ev-database.org/car/1766/Aiways-U6,171,430.0,47588.0,350,160,7.0,True,Aiways,135.96571428571428,297.425,Moderate,Moderately Efficient,Mid-Range,44.6
+68.0,Toyota PROACE Verso L 75 kWh,https://ev-database.org/car/1515/Toyota-PROACE-Verso-L-75-kWh,262,280.0,65385.0,260,130,13.1,True,Toyota,251.48076923076923,502.96153846153845,Slow,Less Efficient,Premium,18.9
+70.5,NIO EL6 75 kWh,https://ev-database.org/car/1921/NIO-EL6-75-kWh,201,470.0,65500.0,350,200,4.5,True,Nio,187.14285714285714,327.5,Moderate,Less Efficient,Premium,62.2
+39.2,Kia e-Soul 39.2 kWh,https://ev-database.org/car/1750/Kia-e-Soul-392-kWh,170,200.0,56942.0,230,157,9.9,True,Kia,247.57391304347826,362.687898089172,Slow,Moderately Efficient,Mid-Range,35.3
+46.3,Opel Combo-e Life 50 kWh,https://ev-database.org/car/1544/Opel-Combo-e-Life-50-kWh,226,330.0,43050.0,205,135,11.7,True,Opel,210.0,318.8888888888889,Moderate,Less Efficient,Budget,24.3
+68.0,Citroen e-Jumpy Combi M 75 kWh,https://ev-database.org/car/1597/Citroen-e-Jumpy-Combi-M-75-kWh,257,290.0,57940.0,265,130,13.3,True,Citroen,218.64150943396226,445.6923076923077,Slow,Less Efficient,Premium,18.3
+90.6,Mercedes EQE AMG 53 4MATIC+,https://ev-database.org/car/1902/Mercedes-EQE-AMG-53-4MATICplus,195,690.0,110706.0,465,220,3.5,True,Mercedes,238.0774193548387,503.2090909090909,Fast,Moderately Efficient,Luxury,70.2
+90.0,Mercedes eVito Tourer Extra-Long 90 kWh,https://ev-database.org/car/1616/Mercedes-eVito-Tourer-Extra-Long-90-kWh,295,310.0,65140.0,305,160,12.0,True,Mercedes,213.5737704918033,407.125,Moderate,Less Efficient,Premium,29.9
+83.7,Porsche Taycan Turbo,https://ev-database.org/car/1927/Porsche-Taycan-Turbo,188,1090.0,164420.0,445,260,3.2,True,Porsche,369.4831460674157,632.3846153846154,Fast,Moderately Efficient,Luxury,81.4
+68.0,Peugeot e-Expert Combi Standard 75 kWh,https://ev-database.org/car/1607/Peugeot-e-Expert-Combi-Standard-75-kWh,257,290.0,57940.0,265,130,14.3,True,Peugeot,218.64150943396226,445.6923076923077,Slow,Less Efficient,Premium,15.4
+46.3,Peugeot e-Rifter Standard 50 kWh,https://ev-database.org/car/1522/Peugeot-e-Rifter-Standard-50-kWh,226,330.0,41240.0,205,135,11.7,True,Peugeot,201.17073170731706,305.48148148148147,Moderate,Less Efficient,Budget,24.3
+68.0,Peugeot e-Traveller Long 75 kWh,https://ev-database.org/car/1354/Peugeot-e-Traveller-Long-75-kWh,262,280.0,60430.0,260,130,14.3,True,Peugeot,232.42307692307693,464.84615384615387,Slow,Less Efficient,Premium,15.4
+74.0,Genesis GV60 Sport,https://ev-database.org/car/1648/Genesis-GV60-Sport,195,990.0,63200.0,380,200,5.5,True,Genesis,166.31578947368422,316.0,Fast,Moderately Efficient,Premium,59.2
+83.7,Porsche Taycan 4S Cross Turismo,https://ev-database.org/car/1930/Porsche-Taycan-4S-Cross-Turismo,190,1080.0,119914.0,440,240,4.1,True,Porsche,272.5318181818182,499.64166666666665,Fast,Moderately Efficient,Luxury,73.6
+87.7,VinFast VF 8 Plus Extended Range,https://ev-database.org/car/1809/VinFast-VF-8-Plus-Extended-Range,206,550.0,58890.0,425,200,5.5,True,Vinfast,138.56470588235294,294.45,Moderate,Less Efficient,Premium,59.2
+71.0,Porsche Taycan Sport Turismo,https://ev-database.org/car/1621/Porsche-Taycan-Sport-Turismo,187,930.0,94091.0,380,230,5.4,True,Porsche,247.6078947368421,409.0913043478261,Fast,Moderately Efficient,Luxury,67.2
+60.0,Mercedes EQV 250 Long,https://ev-database.org/car/1542/Mercedes-EQV-250-Long,286,200.0,68056.0,210,160,12.0,True,Mercedes,324.0761904761905,425.35,Slow,Less Efficient,Premium,29.9
+90.0,Mercedes EQV 300 Extra-Long,https://ev-database.org/car/1315/Mercedes-EQV-300-Extra-Long,290,310.0,72519.0,310,160,12.1,True,Mercedes,233.93225806451613,453.24375,Moderate,Less Efficient,Luxury,29.6
+60.0,Mercedes eVito Tourer Long 60 kWh,https://ev-database.org/car/1617/Mercedes-eVito-Tourer-Long-60-kWh,286,310.0,60678.0,210,160,12.0,True,Mercedes,288.9428571428571,379.2375,Moderate,Less Efficient,Premium,29.9
+37.8,Abarth 500e Convertible,https://ev-database.org/car/1904/Abarth-500e-Convertible,168,370.0,40990.0,225,155,7.0,True,Abarth,182.17777777777778,264.4516129032258,Moderate,Moderately Efficient,Budget,43.3
+74.0,Genesis GV60 Sport Plus,https://ev-database.org/car/1649/Genesis-GV60-Sport-Plus,203,950.0,73100.0,365,235,4.0,True,Genesis,200.27397260273972,311.06382978723406,Fast,Less Efficient,Luxury,72.6
+28.9,Mini Cooper SE Convertible,https://ev-database.org/car/1827/Mini-Cooper-SE-Convertible,175,230.0,56942.0,165,150,8.2,True,Mini,345.1030303030303,379.61333333333334,Slow,Moderately Efficient,Mid-Range,38.5
+68.0,Citroen e-SpaceTourer M 75 kWh,https://ev-database.org/car/1343/Citroen-e-SpaceTourer-M-75-kWh,257,290.0,59640.0,265,130,13.3,True,Citroen,225.0566037735849,458.7692307692308,Slow,Less Efficient,Premium,18.3
+70.5,NIO EL7 75 kWh,https://ev-database.org/car/1788/NIO-EL7-75-kWh,207,460.0,85900.0,340,200,3.9,True,Nio,252.64705882352942,429.5,Moderate,Less Efficient,Luxury,63.9
+68.0,Peugeot e-Traveller Standard 75 kWh,https://ev-database.org/car/1353/Peugeot-e-Traveller-Standard-75-kWh,257,290.0,59640.0,265,130,14.3,True,Peugeot,225.0566037735849,458.7692307692308,Slow,Less Efficient,Premium,15.4
+46.3,Peugeot e-Traveller Standard 50 kWh,https://ev-database.org/car/1351/Peugeot-e-Traveller-Standard-50-kWh,250,290.0,53640.0,185,130,13.1,True,Peugeot,289.94594594594594,412.61538461538464,Slow,Less Efficient,Mid-Range,18.9
+83.7,Porsche Taycan GTS Sport Turismo,https://ev-database.org/car/1561/Porsche-Taycan-GTS-Sport-Turismo,197,1050.0,140858.0,425,250,3.7,True,Porsche,331.4305882352941,563.432,Fast,Moderately Efficient,Luxury,77.3
+83.7,Porsche Taycan Turbo Cross Turismo,https://ev-database.org/car/1931/Porsche-Taycan-Turbo-Cross-Turismo,197,1050.0,165848.0,425,250,3.3,True,Porsche,390.23058823529414,663.392,Fast,Moderately Efficient,Luxury,78.5
+68.0,Peugeot e-Expert Combi Long 75 kWh,https://ev-database.org/car/1608/Peugeot-e-Expert-Combi-Long-75-kWh,262,280.0,58730.0,260,130,14.3,True,Peugeot,225.8846153846154,451.7692307692308,Slow,Less Efficient,Premium,15.4
+68.0,Fiat E-Ulysse L3 75 kWh,https://ev-database.org/car/1724/Fiat-E-Ulysse-L3-75-kWh,262,280.0,62990.0,260,130,13.3,True,Fiat,242.26923076923077,484.53846153846155,Slow,Less Efficient,Premium,18.3
+46.3,Citroen e-SpaceTourer XL 50 kWh,https://ev-database.org/car/1342/Citroen-e-SpaceTourer-XL-50-kWh,257,290.0,54430.0,180,130,12.1,True,Citroen,302.3888888888889,418.6923076923077,Slow,Less Efficient,Mid-Range,21.9
+83.7,Porsche Taycan Turbo S Cross Turismo,https://ev-database.org/car/1932/Porsche-Taycan-Turbo-S-Cross-Turismo,204,1010.0,199168.0,410,250,2.9,True,Porsche,485.77560975609754,796.672,Fast,Less Efficient,Luxury,79.7
+46.3,Citroen e-Berlingo XL 50 kWh,https://ev-database.org/car/1547/Citroen-e-Berlingo-XL-50-kWh,226,330.0,43640.0,205,135,11.7,True,Citroen,212.8780487804878,323.25925925925924,Moderate,Less Efficient,Budget,24.3
+21.3,Fiat 500e Cabrio 24 kWh,https://ev-database.org/car/1727/Fiat-500e-Cabrio-24-kWh,158,230.0,35490.0,135,135,9.0,True,Fiat,262.8888888888889,262.8888888888889,Slow,Moderately Efficient,Budget,32.3
+83.7,Porsche Taycan Plus Sport Turismo,https://ev-database.org/car/1622/Porsche-Taycan-Plus-Sport-Turismo,188,1090.0,99815.0,445,230,5.4,True,Porsche,224.30337078651687,433.9782608695652,Fast,Moderately Efficient,Luxury,67.2
+68.0,Toyota PROACE Shuttle M 75 kWh,https://ev-database.org/car/1611/Toyota-PROACE-Shuttle-M-75-kWh,257,290.0,56942.0,265,130,13.1,True,Toyota,214.87547169811322,438.0153846153846,Slow,Less Efficient,Mid-Range,18.9
+46.3,Toyota PROACE Shuttle L 50 kWh,https://ev-database.org/car/1610/Toyota-PROACE-Shuttle-L-50-kWh,257,290.0,56942.0,180,130,12.1,True,Toyota,316.34444444444443,438.0153846153846,Slow,Less Efficient,Mid-Range,21.9
+83.7,Porsche Taycan Turbo S Sport Turismo,https://ev-database.org/car/1626/Porsche-Taycan-Turbo-S-Sport-Turismo,212,970.0,198692.0,395,260,2.8,True,Porsche,503.01772151898734,764.2,Fast,Less Efficient,Luxury,82.6
+68.0,Citroen e-SpaceTourer XL 75 kWh,https://ev-database.org/car/1344/Citroen-e-SpaceTourer-XL-75-kWh,262,280.0,60430.0,260,130,13.3,True,Citroen,232.42307692307693,464.84615384615387,Slow,Less Efficient,Premium,18.3
+46.3,Citroen e-Jumpy Combi M 50 kWh,https://ev-database.org/car/1595/Citroen-e-Jumpy-Combi-M-50-kWh,250,290.0,51940.0,185,130,12.1,True,Citroen,280.7567567567568,399.53846153846155,Slow,Less Efficient,Mid-Range,21.9
+46.3,Opel Zafira-e Life M 50 kWh,https://ev-database.org/car/1346/Opel-Zafira-e-Life-M-50-kWh,250,290.0,63250.0,185,130,12.1,True,Opel,341.8918918918919,486.53846153846155,Slow,Less Efficient,Premium,21.9
+68.0,Toyota PROACE Shuttle L 75 kWh,https://ev-database.org/car/1612/Toyota-PROACE-Shuttle-L-75-kWh,262,280.0,56942.0,260,130,13.1,True,Toyota,219.0076923076923,438.0153846153846,Slow,Less Efficient,Mid-Range,18.9
+68.0,Citroen e-Jumpy Combi XL 75 kWh,https://ev-database.org/car/1598/Citroen-e-Jumpy-Combi-XL-75-kWh,262,280.0,58730.0,260,130,13.3,True,Citroen,225.8846153846154,451.7692307692308,Slow,Less Efficient,Premium,18.3
+83.7,Porsche Taycan 4S Plus Sport Turismo,https://ev-database.org/car/1624/Porsche-Taycan-4S-Plus-Sport-Turismo,195,1060.0,120081.0,430,250,4.0,True,Porsche,279.2581395348837,480.324,Fast,Moderately Efficient,Luxury,76.5
+46.3,Opel Combo-e Life XL 50 kWh,https://ev-database.org/car/1545/Opel-Combo-e-Life-XL-50-kWh,232,320.0,44750.0,200,135,11.7,True,Opel,223.75,331.48148148148147,Moderate,Less Efficient,Budget,24.3
+46.3,Toyota PROACE Shuttle M 50 kWh,https://ev-database.org/car/1609/Toyota-PROACE-Shuttle-M-50-kWh,250,290.0,56942.0,185,130,12.1,True,Toyota,307.79459459459457,438.0153846153846,Slow,Less Efficient,Mid-Range,21.9
+71.0,Porsche Taycan 4S Sport Turismo,https://ev-database.org/car/1623/Porsche-Taycan-4S-Sport-Turismo,192,910.0,114559.0,370,250,4.0,True,Porsche,309.6189189189189,458.236,Fast,Moderately Efficient,Luxury,76.5
+46.3,Peugeot e-Expert Combi Standard 50 kWh,https://ev-database.org/car/1605/Peugeot-e-Expert-Combi-Standard-50-kWh,250,290.0,51940.0,185,130,13.1,True,Peugeot,280.7567567567568,399.53846153846155,Slow,Less Efficient,Mid-Range,18.9
+60.0,Mercedes eVito Tourer Extra-Long 60 kWh,https://ev-database.org/car/1618/Mercedes-eVito-Tourer-Extra-Long-60-kWh,293,300.0,61571.0,205,160,12.0,True,Mercedes,300.34634146341466,384.81875,Moderate,Less Efficient,Premium,29.9
+46.3,Peugeot e-Traveller Long 50 kWh,https://ev-database.org/car/1352/Peugeot-e-Traveller-Long-50-kWh,250,290.0,54430.0,185,130,13.1,True,Peugeot,294.2162162162162,418.6923076923077,Slow,Less Efficient,Mid-Range,18.9
+68.0,Fiat E-Ulysse L2 75 kWh,https://ev-database.org/car/1722/Fiat-E-Ulysse-L2-75-kWh,257,290.0,61990.0,265,130,13.3,True,Fiat,233.9245283018868,476.84615384615387,Slow,Less Efficient,Premium,18.3
+83.7,Porsche Taycan Turbo Sport Turismo,https://ev-database.org/car/1625/Porsche-Taycan-Turbo-Sport-Turismo,207,1000.0,165372.0,405,260,3.2,True,Porsche,408.3259259259259,636.0461538461539,Fast,Less Efficient,Luxury,81.4
+60.0,Mercedes EQV 250 Extra-Long,https://ev-database.org/car/1543/Mercedes-EQV-250-Extra-Long,286,200.0,68949.0,210,160,12.0,True,Mercedes,328.3285714285714,430.93125,Slow,Less Efficient,Premium,29.9
+68.0,Opel Vivaro-e Combi L 75 kWh,https://ev-database.org/car/1603/Opel-Vivaro-e-Combi-L-75-kWh,262,280.0,57775.0,260,130,13.3,True,Opel,222.21153846153845,444.4230769230769,Slow,Less Efficient,Premium,18.3
+46.3,Opel Vivaro-e Combi M 50 kWh,https://ev-database.org/car/1600/Opel-Vivaro-e-Combi-M-50-kWh,250,290.0,50992.0,185,130,12.1,True,Opel,275.63243243243244,392.24615384615385,Slow,Less Efficient,Mid-Range,21.9
+46.3,Opel Zafira-e Life L 50 kWh,https://ev-database.org/car/1347/Opel-Zafira-e-Life-L-50-kWh,257,290.0,64075.0,180,130,12.1,True,Opel,355.97222222222223,492.88461538461536,Slow,Less Efficient,Premium,21.9
+46.3,Peugeot e-Expert Combi Long 50 kWh,https://ev-database.org/car/1606/Peugeot-e-Expert-Combi-Long-50-kWh,250,290.0,52730.0,185,130,13.1,True,Peugeot,285.02702702702703,405.61538461538464,Slow,Less Efficient,Mid-Range,18.9
+46.3,Citroen e-Jumpy Combi XL 50 kWh,https://ev-database.org/car/1596/Citroen-e-Jumpy-Combi-XL-50-kWh,257,290.0,52730.0,180,130,12.1,True,Citroen,292.94444444444446,405.61538461538464,Slow,Less Efficient,Mid-Range,21.9
+46.3,Fiat E-Ulysse L2 50 kWh,https://ev-database.org/car/1721/Fiat-E-Ulysse-L2-50-kWh,250,290.0,55990.0,185,130,12.1,True,Fiat,302.64864864864865,430.6923076923077,Slow,Less Efficient,Mid-Range,21.9
+46.3,Opel Vivaro-e Combi L 50 kWh,https://ev-database.org/car/1601/Opel-Vivaro-e-Combi-L-50-kWh,257,290.0,51825.0,180,130,12.1,True,Opel,287.9166666666667,398.65384615384613,Slow,Less Efficient,Mid-Range,21.9
+68.0,Opel Zafira-e Life M 75 kWh,https://ev-database.org/car/1348/Opel-Zafira-e-Life-M-75-kWh,257,290.0,69250.0,265,130,13.3,True,Opel,261.3207547169811,532.6923076923077,Slow,Less Efficient,Premium,18.3
+46.3,Fiat E-Ulysse L3 50 kWh,https://ev-database.org/car/1723/Fiat-E-Ulysse-L3-50-kWh,257,290.0,56990.0,180,130,12.1,True,Fiat,316.6111111111111,438.38461538461536,Slow,Less Efficient,Premium,21.9
